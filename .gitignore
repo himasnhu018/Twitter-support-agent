@@ -1,43 +1,20 @@
-# Environment
-.env
-*.env
-
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
-*.egg-info/
-dist/
-build/
-*.egg
-*.pyc
-
-# Virtual environments
 .venv/
-venv/
-env/
-
-# Streamlit / editor / local tooling
+__pycache__/
+*.pyc
+.env
+*.log
 .streamlit/
 .vscode/
 .idea/
 
-# Data (raw/sensitive data should not be committed)
+# Raw Kaggle dataset
 data/raw/
-data/processed/
 
-# Jupyter
-.ipynb_checkpoints/
+# Ignore generated processed data by default
+data/processed/*.parquet
+data/processed/*.csv
+data/processed/*.txt
 
-# IDE / editor swap files
-*.swp
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-logs/
+# The main RAG artifacts are stored using Git LFS
+!data/processed/amazon_support.faiss
+!data/processed/amazon_support_metadata.parquet
