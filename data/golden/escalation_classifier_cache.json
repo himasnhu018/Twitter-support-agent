@@ -1,0 +1,1002 @@
+{
+  "981467": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is sharing general information and commentary about TV show availability without asking for specific account or order actions."
+  },
+  "2199056": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "General complaint about Prime Video streaming not working, can be addressed with general troubleshooting or information."
+  },
+  "1939024": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.7,
+    "reason": "General customer update regarding troubleshooting, no specific account or order investigation requested in this tweet."
+  },
+  "1104387": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "General technical troubleshooting for geo-restriction or video availability error messages."
+  },
+  "1432324": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about a faulty phone and demanding urgent fast processing for a replacement or resolution, which involves an order-specific and consequential action."
+  },
+  "1155096": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about a specific shipping delay and demanding an explanation or refund regarding one-day shipping fees."
+  },
+  "2925584": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "General complaint about local delivery service quality in a specific area without requiring immediate order-specific intervention."
+  },
+  "2457184": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is reporting that past orders are being returned for no reason, requiring specific account and order investigation."
+  },
+  "545718": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is following up on a past unresolved trial and geo-restriction issue that requires account-specific investigation."
+  },
+  "134893": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is reporting a damaged delivery with a hole in the package, requiring a delivery investigation."
+  },
+  "150530": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 1.0,
+    "reason": "The customer is asking a general how-to question about Prime Video rental periods without needing specific account access."
+  },
+  "2971969": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer expresses severe frustration after previous troubleshooting failed, which requires human agent intervention and empathy."
+  },
+  "2089264": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 1.0,
+    "reason": "The customer states the issue is already sorted out and leaves feedback, requiring no further action."
+  },
+  "2474828": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 1.0,
+    "reason": "The customer is updating that one of their two issues was already resolved by a seller, requiring no further action."
+  },
+  "2033234": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about a specific pre-order not being fulfilled, which requires investigation into a specific order."
+  },
+  "2930736": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is explicitly asking to change the delivery address for an already placed order."
+  },
+  "1262588": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "The customer is asking general questions about available shipping options (2-day) while browsing common items."
+  },
+  "1474641": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is reporting a specific delivery driver's bad behavior, which requires a delivery investigation."
+  },
+  "1367395": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is expressing a general grievance about delivery availability to a specific region rather than asking for specific order support."
+  },
+  "1355352": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 1.0,
+    "reason": "The customer is thanking support and noting a technical clarification regarding an Xbox, requiring no further action."
+  },
+  "729023": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is inquiring about a missing specific order and delivery investigation."
+  },
+  "842170": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The context is insufficient and ambiguous, likely related to a prior support interaction, requiring human judgment."
+  },
+  "121148": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 1.0,
+    "reason": "General positive feedback about a service, requiring no account action or support."
+  },
+  "255094": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "General troubleshooting question regarding streaming quality settings."
+  },
+  "1050392": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "General comment on shipping times and pre-orders, not requiring specific order investigation."
+  },
+  "2774138": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "Threat of legal action involving a specific order number requires immediate human intervention."
+  },
+  "2069828": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "General feature feedback and product request about purchasing pantry items individually."
+  },
+  "323292": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "General conversational response in French about media content, requiring no support action."
+  },
+  "425053": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "Involves a specific refund and a delayed delivery tracking issue."
+  },
+  "1380607": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "Involves a specific order shipping discrepancy and fulfillment issue."
+  },
+  "1145003": {
+    "decision": "ESCALATE",
+    "confidence": 0.85,
+    "reason": "The customer is specifying an order/seller context (Fulfilled by Amazon, Sold by iTekLife Global) which requires order-specific investigation."
+  },
+  "89225": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "This is a casual social media comment sharing a link and expressing excitement, not requiring account access or support."
+  },
+  "2768262": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "The customer is simply announcing a video featuring Amazon; no customer support issue or account action is requested."
+  },
+  "947272": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer explicitly asks support to get into logs related to their queries and complains about contact center support."
+  },
+  "1328913": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is thanking support for previous help and expressing satisfaction; no active support intervention is needed."
+  },
+  "2429453": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "General feedback regarding seller and delivery selection quality, falling under general service information/feedback."
+  },
+  "2410474": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer reports a blocked account and a pending order delivery date, which requires specific account investigation and actions."
+  },
+  "745054": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer discusses a specific purchase from a third-party seller (Smart Shop Online) and delivery details, requiring order-specific investigation."
+  },
+  "287905": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer states that troubleshooting steps have failed ('followed all those steps, but no revert back') and asks about an SLA, requiring human intervention."
+  },
+  "181153": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer's account is locked and they are trying to find out the reason, requiring account-specific investigation and access."
+  },
+  "2072980": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is describing an in-person meeting with a delivery person or seller to receive a specific order, which involves delivery logistics, safety considerations, and order-specific investigation."
+  },
+  "535164": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer received a damaged product and mentions ordering a replacement, which involves order-specific investigation and fulfillment tracking."
+  },
+  "2741835": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer explicitly states they accidentally canceled an order and needs help, which requires order-specific account action."
+  },
+  "230829": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is complaining about a specific package not arriving and asking when it will be delivered, which requires delivery investigation."
+  },
+  "2551067": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer's account is unusable, gift card loading failed, and an order was rejected, requiring account-specific investigation and financial/transaction support."
+  },
+  "149219": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about a prolonged support issue regarding a specific device replacement, requiring human judgment and account/order investigation."
+  },
+  "311574": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "The customer is simply expressing thanks because assistance helped, requiring no further action or account access."
+  },
+  "676916": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is providing specific delivery/carrier information (Ontrac) regarding an ongoing delivery issue, requiring a delivery investigation."
+  },
+  "1137938": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about missing out on a price drop and freebies right after purchasing a specific item, which involves a pricing/transaction inquiry requiring account and order context."
+  },
+  "2870625": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about Prime delivery delays for their specific orders, requiring delivery investigation and order-specific support."
+  },
+  "290449": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking for a specific delivery update and mentions leaving for the weekend, requiring order-specific investigation."
+  },
+  "470840": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is inquiring about a specific cancelled order and pricing issue, requiring account and order-specific investigation."
+  },
+  "1506840": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "General comment about website performance and concern regarding a slow page, requiring no specific account access to address general information."
+  },
+  "2958620": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about a specific delayed delivery status and expects a no-show, requiring delivery and order investigation."
+  },
+  "25261": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 1.0,
+    "reason": "General question about Prime subscription benefits and video streaming costs, which can be answered with general service information."
+  },
+  "384537": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer cannot check out items in their basket, which requires investigating a specific cart/checkout or account error."
+  },
+  "1560589": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking for a specific collection code email for a delivery marked as delivered to a locker, involving account/order-specific actions."
+  },
+  "833942": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "General feature feedback/request about the app's rewind and fast-forward functionality."
+  },
+  "629631": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is stating they decided to wait until Friday due to general delivery difficulties, requiring no action or account investigation."
+  },
+  "792095": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer expresses concern about their credit rating, which involves sensitive financial/account information."
+  },
+  "2733901": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is asking for an investigation into a specific order delivery and its routing logisitics."
+  },
+  "1557714": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about a specific package retrieval issue requiring human support or delivery investigation."
+  },
+  "975699": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is asking about the status and location of a specific delayed or missed personal package."
+  },
+  "793818": {
+    "decision": "ESCALATE",
+    "confidence": 0.85,
+    "reason": "The customer is following up on a pending support response regarding their account or order."
+  },
+  "836887": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.7,
+    "reason": "The message refers generally to a promotional deal rather than a specific account-level transaction dispute."
+  },
+  "2111167": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is requesting a specific delivery instruction or driver coordination for a rescheduled failed delivery."
+  },
+  "2074021": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is reporting a failure in communication regarding an account restriction or block, requiring human support."
+  },
+  "1100553": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "The message is general commentary on pricing and shipping costs for a product rather than a specific order transaction issue."
+  },
+  "975729": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.7,
+    "reason": "The customer is expressing general feedback about marketplace pricing and seller responsibility."
+  },
+  "807350": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is inquiring about an error or issue related to a seller account status, requiring account-specific investigation."
+  },
+  "2641334": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "General question about an announcement or game result that does not require accessing a specific order or account."
+  },
+  "984115": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "Feature request regarding adding a language to the site and application, which is general information and feedback."
+  },
+  "1209042": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer is complaining about a defective phone replacement and poor support, which requires order-specific investigation and human judgment."
+  },
+  "842234": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "Casual remark in French meaning 'I haven't moved', requiring no specific account access or consequential action."
+  },
+  "1622175": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "Customer is discussing a specific package delivery date and potential mailbox delivery issues, requiring delivery investigation."
+  },
+  "1409074": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "Customer is reporting suspicious seller activity and pricing above MRP, requiring investigation into a seller/transaction."
+  },
+  "420447": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "Customer is sharing sensitive personal information (phone number) for contact, requiring human agent handling."
+  },
+  "2612267": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "Customer is complaining about a late delivery despite paying for next-day shipping, requiring delivery and order investigation."
+  },
+  "2985519": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.99,
+    "reason": "Positive feedback tweet thanking customer service, requiring no action."
+  },
+  "2877043": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "Customer reports receiving an empty package for a birthday order, which requires an immediate order and delivery investigation."
+  },
+  "2939013": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "The customer message is a playful movie quote reference and does not require any account-specific action or support investigation."
+  },
+  "985097": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking for urgent action on specific orders using account details and last four digits, requiring account-specific investigation."
+  },
+  "331237": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is asking a general entertainment preference question without referencing an active support case or specific account transaction."
+  },
+  "693873": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking about the specific delivery status and location of an international order whose expected delivery date has passed."
+  },
+  "812374": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "The customer is expressing positive feedback about an early notification regarding delivery and requires no active troubleshooting or account intervention."
+  },
+  "279369": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is asking to expedite an ongoing process or order, which implies a specific customer transaction requiring human or system intervention."
+  },
+  "2680825": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about a specific delayed shipment and asking for it to arrive on time, involving order-specific delivery investigation."
+  },
+  "348550": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "The customer is giving general positive feedback about response times and needs no further support or account intervention."
+  },
+  "2604933": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer explicitly provides an order number and asks to expedite an ongoing investigation, requiring account-specific and transaction investigation."
+  },
+  "2390428": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is expressing general satisfaction and praise regarding fast shipping speed without requesting any support action."
+  },
+  "2679212": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is demanding a response regarding an unspecified issue, which requires investigation and human agent support."
+  },
+  "1433644": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a delivery mistake, repurchasing an order, and extra charges, which requires order and financial investigation."
+  },
+  "914147": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a 22-day wait, indicating a delayed or missing delivery that needs investigation."
+  },
+  "994227": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about a specific delivery issue with an image link, requiring delivery investigation."
+  },
+  "2827203": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is asking a general question about what a specific term or acronym means ('C’est quoi ^YL ?'), which can be safely addressed with general information."
+  },
+  "2718526": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer provides a specific order ID (405-2289130-0737900) and complains about returns, requiring order-specific investigation."
+  },
+  "416675": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is experiencing account login and password error issues after multiple reset attempts, which involves account access and troubleshooting that failed."
+  },
+  "1117976": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a blocked payment method (COD) on their account, requiring account and payment investigation."
+  },
+  "2534511": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is responding to ongoing technical troubleshooting that has persisted, indicating that basic troubleshooting has failed and requires further support."
+  },
+  "432317": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about delayed delivery dates and timeframes, requiring a delivery investigation."
+  },
+  "2600817": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is discussing an accidental Prime subscription charge and expressing concern about future billing, which involves financial and account-specific investigation or cancellation."
+  },
+  "385325": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer states they already attempted troubleshooting with no response, and reasonable troubleshooting has already failed."
+  },
+  "849774": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is following up on a pending callback from the US helpdesk regarding a specific issue, requiring human intervention."
+  },
+  "843528": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer is inquiring about a specific order status ('pendiente de envío') and reporting a delivery delay."
+  },
+  "2262300": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.85,
+    "reason": "The customer is expressing hope that a delivery happens as promised after speaking with support, with no immediate actionable complaint or request requiring account access."
+  },
+  "1306038": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "The customer is sharing general feedback and expressing a hope about a return already in progress, requiring no new consequential action."
+  },
+  "282737": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is reporting an undelivered specific item ('スーパーファミコンミニ') and a delivery issue/glitch."
+  },
+  "2752411": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is reporting a bug or broken feature on a product page ('broken on that book for a long time'), which is general website/feature feedback."
+  },
+  "1470350": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.85,
+    "reason": "The customer is making a general comment about shopping elsewhere and questioning security payment methods without requesting a specific account investigation."
+  },
+  "379393": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about a previous cancellation request that failed and resulted in an unwanted delivery, touching upon order modification and past support failure."
+  },
+  "1200325": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is expressing general worry based on reviews rather than reporting a specific missing package or requiring order investigation."
+  },
+  "465085": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "This is a casual, conversational remark with no support issue or account action requested."
+  },
+  "478564": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is demanding a refund and threatening legal action, which requires financial investigation and human support."
+  },
+  "2766316": {
+    "decision": "ESCALATE",
+    "confidence": 0.85,
+    "reason": "The customer is requesting a specific database/system update regarding a postal pin code, which requires administrative action."
+  },
+  "2336104": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "General complaint about customer service and insurance without requesting specific account-level intervention."
+  },
+  "1832097": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "Complaint regarding a specific delayed package delivery requiring delivery investigation, despite customer anger not being the sole reason."
+  },
+  "1578401": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "Complaint regarding delayed pre-orders, which involves order-specific investigation."
+  },
+  "2915800": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "Casual comment/mention with no actionable support issue."
+  },
+  "2612337": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is requesting to stop a refund and discussing delivery status of an item, requiring transaction and delivery investigation."
+  },
+  "2971977": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "Positive feedback/tweet about a delivery received successfully, requiring no support action."
+  },
+  "1364740": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is following up on an ongoing issue that requires context and likely account-specific investigation."
+  },
+  "145688": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is asking about a specific subscription benefit (next-day delivery) and why their delivery is missing, which requires order and delivery investigation."
+  },
+  "734643": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is asking for a contact telephone number and a specific individual to address their account or login issue, involving sensitive information and human intervention."
+  },
+  "2540319": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.85,
+    "reason": "The customer is expressing gratitude and explaining their plan to check the post office; no immediate consequential action or account modification is requested."
+  },
+  "423003": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer states they are not getting a solution from Amazon, indicating previous troubleshooting has failed and human agent intervention is required."
+  },
+  "970583": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is following up because a promised call has not been received, requiring human agent assistance."
+  },
+  "1136233": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is reporting a specific seller activity and a rejected product review, requiring investigation into seller behavior and review policies."
+  },
+  "1237563": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "This is a general observation or complaint about delivery services (FedEx vs Amazon) rather than a request for a specific order investigation or consequential action."
+  },
+  "1114375": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a missing specific order that has not arrived, requiring a delivery investigation."
+  },
+  "1791181": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer mentions specific financial/account details ('30 dollars in my account'), requiring account-specific investigation and financial information handling."
+  },
+  "1426202": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a broken promise from an agent and missing follow-up, requiring human intervention and specific case investigation."
+  },
+  "2864719": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is stating a general intent or asking how to shop on Prime Now, which is a general how-to or service information query."
+  },
+  "701436": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer is asking about a paid package that has not arrived yet, which requires a specific delivery and order investigation."
+  },
+  "2405151": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is reporting a potential scam email regarding their account, which involves security and suspicious activity investigation."
+  },
+  "281159": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "The customer is offering product/service feedback and feature suggestions regarding packaging, which does not require account-specific intervention."
+  },
+  "2276362": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer is waiting for an order for 2 months and received the wrong item multiple times, requiring an order/fulfillment investigation."
+  },
+  "2725020": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is simply expressing gratitude and confirming an action is done, requiring no further support action."
+  },
+  "2840225": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer is complaining about specific screwed-up deliveries from past orders, requiring a delivery and order investigation."
+  },
+  "2361839": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "The message is general frustration with customer service competence rather than a specific actionable service or order request."
+  },
+  "1618370": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is inquiring about a missing refund for a dropped-off package, which requires financial and transaction investigation."
+  },
+  "2303639": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is asking for help regarding a missing delivery and lost money for a specific order, which requires a delivery and financial investigation."
+  },
+  "442789": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a specific pre-ordered item out of stock issue tied to their account and previous customer service interaction."
+  },
+  "2791903": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is simply sharing a list of books and expressing enthusiasm/love for them without asking for any account-specific support or investigation."
+  },
+  "2378197": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "This is a standard system-generated notification message about an order being out for delivery rather than a customer asking for help."
+  },
+  "2548042": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is asking where their specific parcel is and when it will arrive, which requires a delivery investigation and order-specific details."
+  },
+  "603159": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is referring to an original delivery date for a specific order, which requires checking shipment and order details."
+  },
+  "743262": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is asking to send their specific book, which involves checking an order and delivery status."
+  },
+  "244693": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is refusing to provide details and demanding that Amazon check their registered account to work on the delivery of a specific item, requiring account-specific investigation."
+  },
+  "19141": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about not receiving fast delivery despite being a Prime member, which requires looking into their specific membership and shipping status."
+  },
+  "206006": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is discussing bank account email confirmations and a closed account, which involves sensitive personal information and account-specific issues."
+  },
+  "2111015": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking for assistance with a delayed, specific shipment and tracking information that requires looking into their specific order."
+  },
+  "1336211": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about a specific parcel delivery issue involving the courier, requiring delivery investigation and human judgment."
+  },
+  "425470": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is referencing a specific order number and claiming an incorrect delivery status, which requires order-specific investigation."
+  },
+  "16448": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is asking a general how-to question regarding where to input a payment code on the website during checkout, which is safe guidance and does not require account-specific investigation."
+  },
+  "2408721": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is frustrated with previous agent interactions regarding an ongoing issue, indicating that reasonable troubleshooting has failed and human intervention is needed."
+  },
+  "125302": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 1.0,
+    "reason": "The customer is simply saying goodnight and acknowledging previous responses, requiring no further support action."
+  },
+  "596771": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "The customer is asking a general information question about normal shipping times without Prime, which can be addressed with general policy information."
+  },
+  "2602981": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer discusses a stolen or missing previous order and references a current delivery requiring a signature, touching upon delivery and fraud investigation."
+  },
+  "583542": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer reports a broken charger on a specific item type. Providing basic troubleshooting for a broken accessory or general guidance on product support does not require accessing specific account or transaction data."
+  },
+  "2750369": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is asking general promotional information about quiz winners, which is general service information."
+  },
+  "534070": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a specific delivery left in the rain and criticizing driver working conditions, requiring an investigation into a specific shipment and driver behavior."
+  },
+  "1510497": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer is reporting multiple missing specific deliveries and asking for compensation (free Prime), requiring order-specific investigation and human judgment."
+  },
+  "663823": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer states that previous troubleshooting steps have failed multiple times, and reasonable troubleshooting has already failed is a direct trigger for escalation."
+  },
+  "2685195": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about delivery times for specific orders not meeting Prime standards and expressing dissatisfaction with the service cost, which requires customer-specific context."
+  },
+  "1095958": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.85,
+    "reason": "The user is asking a general technical/website accessibility question regarding Firefox 56, which can be handled with general information without accessing a specific account or order."
+  },
+  "1219171": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.85,
+    "reason": "The user is pointing out a general website or advertisement glitch (misaligned layer on an ad), which is general service information and does not require account or order access."
+  },
+  "1338605": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is asking why their specific cash/refund has not been returned to them, which requires a financial and transaction investigation."
+  },
+  "2367914": {
+    "decision": "ESCALATE",
+    "confidence": 0.99,
+    "reason": "The customer is asking about the status of a specific delivery ('where these kicks are' and confusion over an email), requiring a delivery investigation."
+  },
+  "2609240": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about multiple delayed shipments and discussing cancelling their Prime subscription, involving specific delivery issues and account actions."
+  },
+  "2703132": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is experiencing issues with support channels (troubleshooting methods failing or not providing chat), requiring human support agent intervention."
+  },
+  "281954": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a specific cancellation process involving an order, which requires account-specific investigation."
+  },
+  "2830772": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The message discusses items in a specific customer order, requiring order context."
+  },
+  "2726815": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is asking about delivery times for a specific shipment/order."
+  },
+  "1005105": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is waiting for their specific product and asking for action regarding delivery."
+  },
+  "280626": {
+    "decision": "ESCALATE",
+    "confidence": 0.98,
+    "reason": "The customer is dealing with a delivery investigation involving a carrier and a delayed/problematic shipment."
+  },
+  "2664066": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is asking why they specifically cannot pay via direct debit anymore, which involves account and payment method investigation."
+  },
+  "2790466": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer received a specific item (a book) in a damaged/unacceptable condition and needs a replacement, return, or refund."
+  },
+  "850142": {
+    "decision": "ESCALATE",
+    "confidence": 0.85,
+    "reason": "This is a continuation of an ongoing support conversation that requires context and likely account/order-specific handling."
+  },
+  "2255230": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is trying to checkout and experiencing specific delivery availability errors for their location."
+  },
+  "2524372": {
+    "decision": "ESCALATE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about a failed delivery and misrouted package for a specific shipping partner."
+  },
+  "2826407": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is simply saying 'All right :)' in Italian as a casual remark, requiring no account or order investigation."
+  },
+  "2472509": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about a specific delayed package that was supposed to be delivered last Friday."
+  },
+  "2690663": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is reporting a specific delivery issue where the driver parked outside and drove off without delivering, involving a specific order investigation."
+  },
+  "795721": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking where their specific order is and claims the delivery system is being cheated, requiring order-specific investigation."
+  },
+  "1180560": {
+    "decision": "ESCALATE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about damaged shipping of their orders as a Prime member, requiring investigation into their recent shipments."
+  },
+  "729221": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer states their account is inaccessible and offers to provide their login details via DM, which involves sensitive account access and security."
+  },
+  "1786560": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is reporting a delivery to the wrong address or a false delivery scan for a specific guaranteed-time order."
+  },
+  "738378": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is inquiring about a specific order (Philips Epilator) that is past its guaranteed delivery date."
+  },
+  "446780": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about what happened to their specific delivery ('alguien por ahí agarró mi envío'), requiring delivery and shipment investigation."
+  },
+  "2913233": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking why their specific Amazon Prime orders shipped via a carrier never arrive, requiring order and carrier investigation."
+  },
+  "30026": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.95,
+    "reason": "The customer is asking a general policy question about whether extra Prime channels can be paid in Brazilian Reais, which does not require accessing a specific account or order."
+  },
+  "67567": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer requires a delivery investigation regarding a specific shipment's status discrepancy between the app and the support section."
+  },
+  "737158": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.9,
+    "reason": "The customer is simply stating they cannot access a provided link, which is a general troubleshooting issue not requiring specific account access."
+  },
+  "656158": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about a specific parcel being sent to the wrong place, requiring delivery and order-specific investigation."
+  },
+  "2137909": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is reporting a specific notification and status regarding their specific shipment arriving at a shop."
+  },
+  "1145926": {
+    "decision": "AUTO_HANDLE",
+    "confidence": 0.8,
+    "reason": "The tweet is a vague statement about an item's condition without requesting account-specific intervention or providing enough context to require investigation."
+  },
+  "1774583": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "Reasonable troubleshooting has already failed as the customer states nobody called or helped them after trying a suggested step."
+  },
+  "2954320": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is inquiring about a specific ordered package that was rescheduled, requiring delivery investigation."
+  },
+  "2586299": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is complaining about a specific refund and order issue ('Chronicle') and states that previous support attempts failed to resolve it."
+  },
+  "514639": {
+    "decision": "ESCALATE",
+    "confidence": 1.0,
+    "reason": "The customer is asking where their specific package is as it has not arrived by the estimated delivery time, requiring a delivery investigation."
+  }
+}

@@ -1,0 +1,12 @@
+# Core dependencies
+# Add your project dependencies here
+
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+pydantic
+python-dotenv
+tqdm
+pytest

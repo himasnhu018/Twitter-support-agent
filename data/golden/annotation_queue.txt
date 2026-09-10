@@ -1,0 +1,3059 @@
+================================================================================
+AMAZONHELP GOLDEN SET ANNOTATION
+================================================================================
+
+INTENTS:
+ 1. DELIVERY_DELAY
+ 2. DELIVERY_TRACKING
+ 3. DELIVERY_FAILURE
+ 4. ORDER_CHANGE
+ 5. RETURN
+ 6. REFUND
+ 7. PAYMENT
+ 8. PRIME
+ 9. TECHNICAL
+10. DIGITAL_CONTENT
+11. SELLER_FRAUD
+12. ORDER_PRODUCT
+13. SUPPORT_COMPLAINT
+14. OTHER
+
+ESCALATION:
+  1. AUTO_HANDLE
+  2. ESCALATE
+
+ANNOTATION RULES:
+
+- Label the PRIMARY actionable customer intent.
+- Emotion does not determine intent.
+- Use the most specific applicable intent.
+- Account information is not automatically an intent.
+- Intent and escalation are separate labels.
+- Use OTHER when the issue is genuinely outside the taxonomy,
+  already resolved with no remaining request, or lacks enough
+  context to determine the intent.
+- Escalate when resolution requires account-specific information,
+  sensitive information, investigation, consequential action,
+  or human intervention.
+- Do not escalate merely because the customer is angry.
+- Do not infer fraud/seller problems without evidence.
+
+For ambiguous cases, explain the ambiguity in notes.
+
+================================================================================
+
+EXAMPLE 1
+--------------------------------------------------------------------------------
+Tweet ID: 981467
+
+CUSTOMER MESSAGE:
+Han puesto los dos primeros capítulos de Estoy Vivo @130293. Imagino que la irán actualizando semanalmente.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 2
+--------------------------------------------------------------------------------
+Tweet ID: 2199056
+
+CUSTOMER MESSAGE:
+@AmazonHelp I️ guess prime video streaming doesn’t work,
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 3
+--------------------------------------------------------------------------------
+Tweet ID: 1939024
+
+CUSTOMER MESSAGE:
+@AmazonHelp I have some now after 5 1/2 hrs trying!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 4
+--------------------------------------------------------------------------------
+Tweet ID: 1104387
+
+CUSTOMER MESSAGE:
+@AmazonHelp I've tried it on two devices.  It says "Not available" or "This video is currently unavailable to watch in your location."
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 5
+--------------------------------------------------------------------------------
+Tweet ID: 1432324
+
+CUSTOMER MESSAGE:
+@AmazonHelp Fed up of listening apologies from day 1. Got faulty phone. urgent need of phone by tmrw but no fast processing &amp; still u ask to wait!!!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 6
+--------------------------------------------------------------------------------
+Tweet ID: 1155096
+
+CUSTOMER MESSAGE:
+@AmazonHelp that date is oct 31. the issue is i paid for one day shipping and that is 7 days of waiting, why did i pay more if i have to wait a week LOL
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 7
+--------------------------------------------------------------------------------
+Tweet ID: 2925584
+
+CUSTOMER MESSAGE:
+@178440 Su servicio en Hermosillo es pésimo, ni siquiera visitan los domicilios. @116875 dejen de usarlos POR FAVOR.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 8
+--------------------------------------------------------------------------------
+Tweet ID: 2457184
+
+CUSTOMER MESSAGE:
+@AmazonHelp @115850 is not intrested in any business. All my pasy orders are being returned for no reason? They just don’t want to co-operate. They dodn’t have any sort of responsiblity &amp; proper answers. Worst system i could have ever imagined.No use of prime membership #Noprime #NoAmazon
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 9
+--------------------------------------------------------------------------------
+Tweet ID: 545718
+
+CUSTOMER MESSAGE:
+@AmazonHelp I had a Prime Video trial for 1 month. I reported the issue (geo restriction) to Amazon.fr several times. They always told me they would come back to me. They never did. Now my trial is over.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 10
+--------------------------------------------------------------------------------
+Tweet ID: 134893
+
+CUSTOMER MESSAGE:
+デリバリープロバイダさん、穴が開いた荷物を持ってくるの巻(Amazon～デリバリープロバイダの倉庫間の事故、中身がダメならAmazonに文句を言ってくれとの言質をとった) https://t.co/lOpHzTIfg4
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 11
+--------------------------------------------------------------------------------
+Tweet ID: 150530
+
+CUSTOMER MESSAGE:
+@115825 Wie lang kann ich die Filme denn ansehen, nachdem ich sie ausgeliehen habe? Nur 48h?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 12
+--------------------------------------------------------------------------------
+Tweet ID: 2971969
+
+CUSTOMER MESSAGE:
+@AmazonHelp No I did that yesterday. I am not doing that anymore. I can't do this anymore. I am exhausted. I just came from work and class, Why did I want to waste my time with a customer service person who is going to tell me the same thing that your website tells me.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 13
+--------------------------------------------------------------------------------
+Tweet ID: 2089264
+
+CUSTOMER MESSAGE:
+@AmazonHelp Already sorted with help desk but you have a loooooooooong way to go before you can think manage when you come to Aus.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 14
+--------------------------------------------------------------------------------
+Tweet ID: 2474828
+
+CUSTOMER MESSAGE:
+@AmazonHelp résolu pour 1 sur 2 car le vendeur français vient d'appeler.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 15
+--------------------------------------------------------------------------------
+Tweet ID: 2033234
+
+CUSTOMER MESSAGE:
+@AmazonHelp ‘Nothing we can do as they are all sold out now’ I pre-ordered this months ago in order to get the Scorpio addition. What’s the point in pre-ordering with you if it’s a risk weather you’ll actually get it?!?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 16
+--------------------------------------------------------------------------------
+Tweet ID: 2930736
+
+CUSTOMER MESSAGE:
+@AmazonHelp  I wanted to order phone with another address , but I forgot to mentioned that address and ordered ..Could u help me to Change order ? It will be great if u can do ..I spoke to cc but they said not available now change
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 17
+--------------------------------------------------------------------------------
+Tweet ID: 1262588
+
+CUSTOMER MESSAGE:
+@AmazonHelp I’ve clicked thru 50 common items and things I’ve orders before. Only options are 2 day
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 18
+--------------------------------------------------------------------------------
+Tweet ID: 1474641
+
+CUSTOMER MESSAGE:
+@AmazonHelp didnt like the delivery driver today who didn’t want to come up the stairs to start and then when did threw my parcel at my door
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 19
+--------------------------------------------------------------------------------
+Tweet ID: 1367395
+
+CUSTOMER MESSAGE:
+@118919 It is very sad and disgusting . None.. Amazon flipcart none are delivering to DARJEELING  hill. Feels isolated
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 20
+--------------------------------------------------------------------------------
+Tweet ID: 1355352
+
+CUSTOMER MESSAGE:
+@AmazonHelp Danke, da es auf der Xbox geht ist es wohl nichts rechtliches. Immerhin.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 21
+--------------------------------------------------------------------------------
+Tweet ID: 729023
+
+CUSTOMER MESSAGE:
+@115850 who is responsible for dlvry of “a fulfilled items”? as I haven’t received the order n ur CC says it’s fault of 3rd party courier
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 22
+--------------------------------------------------------------------------------
+Tweet ID: 842170
+
+CUSTOMER MESSAGE:
+@AmazonHelp Because that makes no sense
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 23
+--------------------------------------------------------------------------------
+Tweet ID: 121148
+
+CUSTOMER MESSAGE:
+@116935 Best deal in the interwebs. I’ve had it for several months, saves me a ton of dough from buying albums. Also, I listen to hundreds I never woulda bought anyway.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 24
+--------------------------------------------------------------------------------
+Tweet ID: 255094
+
+CUSTOMER MESSAGE:
+Hey @116618 why can’t I stream in hd with over 12mbs down and the settings for quality on best?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 25
+--------------------------------------------------------------------------------
+Tweet ID: 1050392
+
+CUSTOMER MESSAGE:
+@368236 @115830 I’ve found my definitions of shipping times differs from those of Amazon. This is especially true for preordered items.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 26
+--------------------------------------------------------------------------------
+Tweet ID: 2774138
+
+CUSTOMER MESSAGE:
+@115850 tomorrow I will file a case in Delhi court against  Order # 405-7739204-775556. Be ready
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 27
+--------------------------------------------------------------------------------
+Tweet ID: 2069828
+
+CUSTOMER MESSAGE:
+@AmazonHelp Yeah, make it so I can buy pantry items individually. No reason for this to be pantry only. https://t.co/TlXZE5fAEG
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 28
+--------------------------------------------------------------------------------
+Tweet ID: 323292
+
+CUSTOMER MESSAGE:
+@AmazonHelp Je les ai toutes vu perso deux fois une fois en vostfr et une fois en vf
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 29
+--------------------------------------------------------------------------------
+Tweet ID: 425053
+
+CUSTOMER MESSAGE:
+@AmazonHelp Refunded HALF the order but no other insight. It’s still “wait until Wednesday” I guess there’s no point in being a Prime member if my packages don’t come on time.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 30
+--------------------------------------------------------------------------------
+Tweet ID: 1380607
+
+CUSTOMER MESSAGE:
+I love how twitch’s amazon store lets you pay extra for shipping for 2 - 3 days but then still says my order will be a week later 🙃
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 31
+--------------------------------------------------------------------------------
+Tweet ID: 1145003
+
+CUSTOMER MESSAGE:
+@AmazonHelp im sorry, Sold by iTekLife Global and Fulfilled by Amazon.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 32
+--------------------------------------------------------------------------------
+Tweet ID: 89225
+
+CUSTOMER MESSAGE:
+Allez hop, direction @120533. Faisons-nous plaisir. https://t.co/zvNoZt5lll
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 33
+--------------------------------------------------------------------------------
+Tweet ID: 2768262
+
+CUSTOMER MESSAGE:
+bonjours @AmazonHelp  je parle de vous dans ma derniere videos elle sort cette aprem soyer attentif 😁😁
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 34
+--------------------------------------------------------------------------------
+Tweet ID: 947272
+
+CUSTOMER MESSAGE:
+@115850 Same issues and same support (no support)from ur contact centre, get into logs related to my queries.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 35
+--------------------------------------------------------------------------------
+Tweet ID: 1328913
+
+CUSTOMER MESSAGE:
+@AmazonHelp Hey, I got an email finally showing me where to send these emails to. I appreciate the help. Now time to crack down. :-)
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 36
+--------------------------------------------------------------------------------
+Tweet ID: 2429453
+
+CUSTOMER MESSAGE:
+@AmazonHelp Bonsoir en fait avant de laisser les clients subir il faudrait mieux sélectionner vos vendeurs et services de livraison
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 37
+--------------------------------------------------------------------------------
+Tweet ID: 2410474
+
+CUSTOMER MESSAGE:
+@116875 SOS Mi cuenta está bloqueada y mi pedido en espera. Esto significa que mi pedido no me llegará en la fecha esperada? ): #SuperSad
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 38
+--------------------------------------------------------------------------------
+Tweet ID: 745054
+
+CUSTOMER MESSAGE:
+@AmazonHelp https://t.co/r36ZS6leOZ it was this here sold by Smart Shop Online. Was prime delivery doesn't seem to be anymore though I also mailed them.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 39
+--------------------------------------------------------------------------------
+Tweet ID: 287905
+
+CUSTOMER MESSAGE:
+@AmazonHelp As I mentioned, I have followed all those steps, but no revert back. What is the SLA to reply for simple query or even acknowledgment?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 40
+--------------------------------------------------------------------------------
+Tweet ID: 181153
+
+CUSTOMER MESSAGE:
+@AmazonHelp I tried to translate into German, but they do not say the reason for the lock.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 41
+--------------------------------------------------------------------------------
+Tweet ID: 2072980
+
+CUSTOMER MESSAGE:
+@AmazonHelp ele entrou em contato comigo. marcamos de nos encontrar em um lugar público pra ele me repassar a encomenda.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 42
+--------------------------------------------------------------------------------
+Tweet ID: 535164
+
+CUSTOMER MESSAGE:
+@115850 @115821 I got a product delivered today in a bad shape, not sealed and badly handled. I am not sure the phone is new one or refurbished one. Highly disappointing. Ordered replacement, hope they send a good one. https://t.co/LKQiRpVeXM
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 43
+--------------------------------------------------------------------------------
+Tweet ID: 2741835
+
+CUSTOMER MESSAGE:
+Accidently canceled the order. Rescue me . Please @115850
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 44
+--------------------------------------------------------------------------------
+Tweet ID: 230829
+
+CUSTOMER MESSAGE:
+全然Amazonの荷物届かないよ…
+いつまで待ったらいいんた…📦
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 45
+--------------------------------------------------------------------------------
+Tweet ID: 2551067
+
+CUSTOMER MESSAGE:
+@AmazonHelp @115821 You are good at telling lies, not at fixing issues.
+My account is still useless, tried loading my gift card, order rejected... Stop talking about these "specialists" they are incompetent. https://t.co/I327ny7rzz
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 46
+--------------------------------------------------------------------------------
+Tweet ID: 149219
+
+CUSTOMER MESSAGE:
+@AmazonHelp Super lange Geschichte, passt nicht in 240 Zeichen... Aber ich sag nur so viel beim Media Markt oder so wäre ich einmal hingegangen, hätte ein Ersatzgerät bekommen und hätte 30 min gebraucht. Bei euch Brauch ich in diesen Fall insgesamt bestimmt 8h 🙄
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 47
+--------------------------------------------------------------------------------
+Tweet ID: 311574
+
+CUSTOMER MESSAGE:
+@AmazonHelp Thanks..  It helped
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 48
+--------------------------------------------------------------------------------
+Tweet ID: 676916
+
+CUSTOMER MESSAGE:
+@AmazonHelp the carrier was ontrac
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 49
+--------------------------------------------------------------------------------
+Tweet ID: 1137938
+
+CUSTOMER MESSAGE:
+@132994 @120692 @115850 Bought  #OnePlus5   with 128GB space   on 8th October but next day offers change and offering more discount and freebies, feeling cheated 😚
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 50
+--------------------------------------------------------------------------------
+Tweet ID: 2870625
+
+CUSTOMER MESSAGE:
+@AmazonHelp PLEASE  I PAY FOR PRIME. NOTHING, NOTHING IS EVER ON TIME LIARS
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 51
+--------------------------------------------------------------------------------
+Tweet ID: 290449
+
+CUSTOMER MESSAGE:
+Hey @AmazonHelp, waiting on a parcel being delivered to work. Leave for weekend in about an hour. Can you help give an update?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 52
+--------------------------------------------------------------------------------
+Tweet ID: 470840
+
+CUSTOMER MESSAGE:
+Bonjour @115821, j’ai reçu ce mail. Après avoir appelé le service client il s’avère que la commande est annulée et que je ne pourrais profiter du tarif avantageux. Votre ligne fax est indisponible, que dois-je faire ?? https://t.co/gTU28BDiti
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 53
+--------------------------------------------------------------------------------
+Tweet ID: 1506840
+
+CUSTOMER MESSAGE:
+Amazonのページだけなんか重い。ページにウイルスでも仕込まれてるんじゃないかって心配になるレベル
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 54
+--------------------------------------------------------------------------------
+Tweet ID: 2958620
+
+CUSTOMER MESSAGE:
+It's almost 8pm. The status page for my @122232 delivery still says that my @115830 delivery is arriving today. Does anyone want to take a bet that it'll be a no show? https://t.co/iSotLjItHG
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 55
+--------------------------------------------------------------------------------
+Tweet ID: 25261
+
+CUSTOMER MESSAGE:
+@115850 I am a Prime customer. Is Amazon Video free for me or do I still need to pay some monthly subscription charges?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 56
+--------------------------------------------------------------------------------
+Tweet ID: 384537
+
+CUSTOMER MESSAGE:
+@AmazonHelp Certainly are. It literally will not allow me to check out with them in my basket
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 57
+--------------------------------------------------------------------------------
+Tweet ID: 1560589
+
+CUSTOMER MESSAGE:
+@AmazonHelp How is that helpful? It’s gone to a locker, it says it’s delivered. I literally just need the collection code email!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 58
+--------------------------------------------------------------------------------
+Tweet ID: 833942
+
+CUSTOMER MESSAGE:
+@119625 1/2 Please change your PS4 app. I love your content but rewinding and fastforwading is so difficult.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 59
+--------------------------------------------------------------------------------
+Tweet ID: 629631
+
+CUSTOMER MESSAGE:
+@AmazonHelp Nein, Ich habe mich entschieden nochmal bis Freitag zu warten, da ich von mehreren Leuten hörte das es wohl allgemein Grade Lieferschwierigkeiten geben soll.
+
+Warscheinlich durch den Cyber Monday in Zusammenhang mit dem kommenden Weihnachtsgeschäft nehme ich an...
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 60
+--------------------------------------------------------------------------------
+Tweet ID: 792095
+
+CUSTOMER MESSAGE:
+@AmazonHelp I'll keep an eye on it, I just hope it's not going to affect my credit rating...
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 61
+--------------------------------------------------------------------------------
+Tweet ID: 2733901
+
+CUSTOMER MESSAGE:
+@115821 I live in Indianapolis, not that far from where my order is....how is it logistically possible to do this? And the main question is why? https://t.co/EweZBHtIG9
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 62
+--------------------------------------------------------------------------------
+Tweet ID: 1557714
+
+CUSTOMER MESSAGE:
+@AmazonHelp merci de prendre en compte que le client il a pas envie d'être en galère pour récupérer un simple colis.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 63
+--------------------------------------------------------------------------------
+Tweet ID: 975699
+
+CUSTOMER MESSAGE:
+ずっと家にいるのにAmazonさんの配達案内が配達できませんでした。配達店で保管中ってなってるσ(￣＾￣)？ポストに不在届も入ってないし？私の荷物どこいった？このあと来るのかな？
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 64
+--------------------------------------------------------------------------------
+Tweet ID: 793818
+
+CUSTOMER MESSAGE:
+@AmazonHelp Sigo esperando su respuesta. Gracias de antemano
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 65
+--------------------------------------------------------------------------------
+Tweet ID: 836887
+
+CUSTOMER MESSAGE:
+@AmazonHelp Nothing except the golden day deal.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 66
+--------------------------------------------------------------------------------
+Tweet ID: 2111167
+
+CUSTOMER MESSAGE:
+@AmazonHelp have spoken with Amazon contact centre to re-schedule the 2nd failed delivery.  How can I ensure driver calls me if he has propb finding me?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 67
+--------------------------------------------------------------------------------
+Tweet ID: 2074021
+
+CUSTOMER MESSAGE:
+@AmazonHelp 電話のブロックを確認次第解除しますと言われてから１週間たちますが連絡が来ず
+メールも１週間以上経ちますが返事が来ず迷惑メールに振り分けられてるわけでもありません
+Amazonメールは普通に来るのでこちら側の設定ではないと思うのですがどうすればいいでしょうか
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 68
+--------------------------------------------------------------------------------
+Tweet ID: 1100553
+
+CUSTOMER MESSAGE:
+#BlackFriday dónde voy a encontrar el DVD de #Supernatural a 12 lucas en Chile? En ningún lado!, aquí lo venden a 50 lucas.  Y ojo más gastos de envío, xq el DVD sale 7 lucas. Gracias una vez más @115821 ❤
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 69
+--------------------------------------------------------------------------------
+Tweet ID: 975729
+
+CUSTOMER MESSAGE:
+@AmazonHelp But there are not change na....u may put a sake name seller but ur the marketer ur responsible for price
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 70
+--------------------------------------------------------------------------------
+Tweet ID: 807350
+
+CUSTOMER MESSAGE:
+Inquired many times no response. Why do I get this message when I try to sell? I do not have any seller account @115850 https://t.co/FF6pEngrqm
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 71
+--------------------------------------------------------------------------------
+Tweet ID: 2641334
+
+CUSTOMER MESSAGE:
+@AmazonHelp When will you announce the results.. after every one forgot about the game??
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 72
+--------------------------------------------------------------------------------
+Tweet ID: 984115
+
+CUSTOMER MESSAGE:
+@115821 We want to add Arabic language in the site and application to make it easier for us to complete the purchases easily without
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 73
+--------------------------------------------------------------------------------
+Tweet ID: 1209042
+
+CUSTOMER MESSAGE:
+@AmazonHelp You're providing worst Email and Call support in India. People are hanging up phone without any notification. If we ask something then they didn't listen. Not replacing my defective phone. Worst support in India
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 74
+--------------------------------------------------------------------------------
+Tweet ID: 842234
+
+CUSTOMER MESSAGE:
+@AmazonHelp Je n'ai pas bougé ;)
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 75
+--------------------------------------------------------------------------------
+Tweet ID: 1622175
+
+CUSTOMER MESSAGE:
+@AmazonHelp Delivery date doesn't matter: if it doesn't fit in the mailbox, post office won't deliver. Supposed to be delivered by today, which is what everything points to.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 76
+--------------------------------------------------------------------------------
+Tweet ID: 1409074
+
+CUSTOMER MESSAGE:
+@AmazonHelp But the price is too high than its MRP. It's illegal. Please check with seller why he is violating the rule.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 77
+--------------------------------------------------------------------------------
+Tweet ID: 420447
+
+CUSTOMER MESSAGE:
+@AmazonHelp You may contact me at +91 9029558838
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 78
+--------------------------------------------------------------------------------
+Tweet ID: 2612267
+
+CUSTOMER MESSAGE:
+@AmazonHelp If you followed up I received late a day #I paid for next day Total failure on customer service and absolutely NO Follow UP #
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 79
+--------------------------------------------------------------------------------
+Tweet ID: 2985519
+
+CUSTOMER MESSAGE:
+@115821 has the best customer service! Thank you for valuing me as a customer 💛 https://t.co/RLLiYy1kbT
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 80
+--------------------------------------------------------------------------------
+Tweet ID: 2877043
+
+CUSTOMER MESSAGE:
+The look on @225394 face when she opened her birthday package I ordered from @115821 and it was EMPTY, her face left me traumatized.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 81
+--------------------------------------------------------------------------------
+Tweet ID: 2939013
+
+CUSTOMER MESSAGE:
+@AmazonHelp @812327 Mi è sembrato di vedere un gatto (cit.)
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 82
+--------------------------------------------------------------------------------
+Tweet ID: 985097
+
+CUSTOMER MESSAGE:
+@115821 Ok do it on urgent basis two order from Lipika Roy account last four numbers are 1927 and 3928..
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 83
+--------------------------------------------------------------------------------
+Tweet ID: 331237
+
+CUSTOMER MESSAGE:
+@AmazonHelp I want to watch blade runner
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 84
+--------------------------------------------------------------------------------
+Tweet ID: 693873
+
+CUSTOMER MESSAGE:
+@AmazonHelp It's actually on Amazon Germany so that link doesn't help 😉 The expected delivery date was yesterday. The slight delay is okay but I don't understand why it's apparently in the US when it was in Germany yesterday and is coming to Switzerland?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 85
+--------------------------------------------------------------------------------
+Tweet ID: 812374
+
+CUSTOMER MESSAGE:
+Amazon told me my items are coming on Monday which I was happy with. Amazon app just sent me a notification that everything is coming today instead. 
+
+I swear it’s the small things that really make your day. I love you @115821 😭😭😭
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 86
+--------------------------------------------------------------------------------
+Tweet ID: 279369
+
+CUSTOMER MESSAGE:
+@AmazonHelp Thanks ...request you to please expedite the process that will really b helpful... thanks
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 87
+--------------------------------------------------------------------------------
+Tweet ID: 2680825
+
+CUSTOMER MESSAGE:
+@AmazonHelp I don’t want to return. I want it. And I want it on time. It’s my sons first Halloween. That’s why I pay for prime and then paid 1 day ship
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 88
+--------------------------------------------------------------------------------
+Tweet ID: 348550
+
+CUSTOMER MESSAGE:
+@AmazonHelp Great to see such a fast response
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 89
+--------------------------------------------------------------------------------
+Tweet ID: 2604933
+
+CUSTOMER MESSAGE:
+@AmazonHelp I spoke with rep. again, and all they have said is that they've begun an investigation and I can hear back from them in 3-5 business days. This is extremely disappointing. I'd be grateful if you could expedite the process. Order #: 404-2925739-5193901
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 90
+--------------------------------------------------------------------------------
+Tweet ID: 2390428
+
+CUSTOMER MESSAGE:
+@AmazonHelp Suma y sigue, comprado ayer por la noche, que pasada de rapidez.... 👍🏻 https://t.co/21SdnjGjcQ
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 91
+--------------------------------------------------------------------------------
+Tweet ID: 2679212
+
+CUSTOMER MESSAGE:
+@115821 quero resposta
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 92
+--------------------------------------------------------------------------------
+Tweet ID: 1433644
+
+CUSTOMER MESSAGE:
+@115850 Now I have placed order again but this time I will have pay ₹100/more for the mistake which was not mine but by delivery boy. https://t.co/6juUHXFMIZ
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 93
+--------------------------------------------------------------------------------
+Tweet ID: 914147
+
+CUSTOMER MESSAGE:
+@AmazonHelp what reply u expect.
+22 days have passed but i'm waiting...
+#unhappinessguaranteed
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 94
+--------------------------------------------------------------------------------
+Tweet ID: 994227
+
+CUSTOMER MESSAGE:
+Hey @115821 : nice delivery. 🙄 https://t.co/NJ5bvkYs66
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 95
+--------------------------------------------------------------------------------
+Tweet ID: 2827203
+
+CUSTOMER MESSAGE:
+@AmazonHelp @787478 C’est quoi ^YL ?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 96
+--------------------------------------------------------------------------------
+Tweet ID: 2718526
+
+CUSTOMER MESSAGE:
+@AmazonHelp never thought amazon to turn out to be such a disappointment. If i have to get into the hassle of turning my orders then tell me one good reason why should i buy it from amazon? my Order id is 405-2289130-0737900
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 97
+--------------------------------------------------------------------------------
+Tweet ID: 416675
+
+CUSTOMER MESSAGE:
+@AmazonHelp WTFwhy do I keep getting a error with my account saying"there was a problem your password is not correct I havereset the thing 5
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 98
+--------------------------------------------------------------------------------
+Tweet ID: 1117976
+
+CUSTOMER MESSAGE:
+@115850 @115821 @115851 @123288 @39424 Even after 36 hours, COD still blocked. #shameless #racist #arrogant https://t.co/3ZWKHBTqo4
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 99
+--------------------------------------------------------------------------------
+Tweet ID: 2534511
+
+CUSTOMER MESSAGE:
+@AmazonHelp Yes. It persists. They work on my phone.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 100
+--------------------------------------------------------------------------------
+Tweet ID: 432317
+
+CUSTOMER MESSAGE:
+@AmazonHelp What kind of sorry? 4 to10 oct 6 days me nahi hopaya kya apse delivery. Customer ki time kya koi valu nahi hai kya?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 101
+--------------------------------------------------------------------------------
+Tweet ID: 2600817
+
+CUSTOMER MESSAGE:
+Amazonプライム、お試し登録してたの忘れてて気づいたら正会員になっててお金引き落とされてたけど来年もたぶん解約するの忘れるんだろうなぁ
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 102
+--------------------------------------------------------------------------------
+Tweet ID: 385325
+
+CUSTOMER MESSAGE:
+@AmazonHelp I did this and no response.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 103
+--------------------------------------------------------------------------------
+Tweet ID: 849774
+
+CUSTOMER MESSAGE:
+@AmazonHelp Connected.. the India Helpdesk confirmed that th the US helpdesk will call.. didn’t!! Emails sent.. replied with an auto response!! Super!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 104
+--------------------------------------------------------------------------------
+Tweet ID: 843528
+
+CUSTOMER MESSAGE:
+@AmazonHelp Según decís, está “pendiente de envío”, y en varias ocasiones me habéis escrito para decirme que a va a retrasar 😔
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 105
+--------------------------------------------------------------------------------
+Tweet ID: 2262300
+
+CUSTOMER MESSAGE:
+@AmazonHelp I spoke to Thaddeus B., he was very helpful and spoke to @115817. I am hoping they deliver as promised.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 106
+--------------------------------------------------------------------------------
+Tweet ID: 1306038
+
+CUSTOMER MESSAGE:
+@AmazonHelp Thank you, I'm already in progress for return and I hope a refund. I just hope it doesn't get resent out to someone else.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 107
+--------------------------------------------------------------------------------
+Tweet ID: 282737
+
+CUSTOMER MESSAGE:
+Amazonのスーパーファミコンミニが届かない件はどうやら文字化け案件だったらしい。よりによってこんな時にやらかしてくれたな。
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 108
+--------------------------------------------------------------------------------
+Tweet ID: 2752411
+
+CUSTOMER MESSAGE:
+@AmazonHelp No problem. It’s been broken on that book for a long time. Need to see it before I buy.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 109
+--------------------------------------------------------------------------------
+Tweet ID: 1470350
+
+CUSTOMER MESSAGE:
+@AmazonHelp Ok! Je vais pouvoir commandé sur un autre site. Mais pourquoi ne pas utiliser simplement le service de sécurité des banques?? Dommage
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 110
+--------------------------------------------------------------------------------
+Tweet ID: 379393
+
+CUSTOMER MESSAGE:
+@AmazonHelp La dernière fois que j'ai contacté le SAV pour une commande, j'ai demandé l'annulation et on m'a dit "tout est OK". Je l'ai qd-même reçue.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 111
+--------------------------------------------------------------------------------
+Tweet ID: 1200325
+
+CUSTOMER MESSAGE:
+@AmazonHelp No no just seen all the bad reviews and stuff about the driver's stealing packages. I'm just a little worried is all.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 112
+--------------------------------------------------------------------------------
+Tweet ID: 465085
+
+CUSTOMER MESSAGE:
+@AmazonHelp Oh man her tail is twitching with excitement!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 113
+--------------------------------------------------------------------------------
+Tweet ID: 478564
+
+CUSTOMER MESSAGE:
+@AmazonHelp  I did visit moto service center they asked me that our jobsheet is our service denial letter and I sent it to you for 4 https://t.co/5Ku6Ag9D9q please start refund otherwise I will approach high court for protection of my consumer right.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 114
+--------------------------------------------------------------------------------
+Tweet ID: 2766316
+
+CUSTOMER MESSAGE:
+@115850 Shamshabad-RGIA area had been alloted a new pin code earlier this year. Not picking up when searching. Pls update - 500108. TY 🙏
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 115
+--------------------------------------------------------------------------------
+Tweet ID: 2336104
+
+CUSTOMER MESSAGE:
+@115821 Your customer service is poor. Why don't you post customer service complaints? Your insurance provider and your service is poor.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 116
+--------------------------------------------------------------------------------
+Tweet ID: 1832097
+
+CUSTOMER MESSAGE:
+If @115821 can’t deliver a package within the same city in under two days, why do I pay for a Prime membership? https://t.co/xlPpKx0H5E
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 117
+--------------------------------------------------------------------------------
+Tweet ID: 1578401
+
+CUSTOMER MESSAGE:
+@AmazonHelp @61924 Collector's Edition https://t.co/1F75ISH8k7 Been available since May no reason pre-orders shouldn't go out on time to customers.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 118
+--------------------------------------------------------------------------------
+Tweet ID: 2915800
+
+CUSTOMER MESSAGE:
+@AmazonHelp Haha Watchmen sem medo de ser feliz
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 119
+--------------------------------------------------------------------------------
+Tweet ID: 2612337
+
+CUSTOMER MESSAGE:
+@AmazonHelp I wish to notify that I received the Items, yesterday  I was Complain due to Incomplete address , Items is Undelivered, Kindly Stop the refund,
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 120
+--------------------------------------------------------------------------------
+Tweet ID: 2971977
+
+CUSTOMER MESSAGE:
+プライムナウとかいう神アプリで注文から2時間後に届いたHDDケース🙆🙆🙆早速入れ替える！ https://t.co/LJbQnlmiB1
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 121
+--------------------------------------------------------------------------------
+Tweet ID: 1364740
+
+CUSTOMER MESSAGE:
+@AmazonHelp That’s not what I’m getting at
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 122
+--------------------------------------------------------------------------------
+Tweet ID: 145688
+
+CUSTOMER MESSAGE:
+@115821 what happened to next day delivery i pay a subscription for next day delivery nothing is on next day why?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 123
+--------------------------------------------------------------------------------
+Tweet ID: 734643
+
+CUSTOMER MESSAGE:
+@AmazonHelp This link requires a log in password we have neither please for a contact telephone number and identify an individual to address this please
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 124
+--------------------------------------------------------------------------------
+Tweet ID: 2540319
+
+CUSTOMER MESSAGE:
+@AmazonHelp Ok j'attends aujourd'hui j'irai voir à la poste demain avec le papier quand même si j'ai rien aujourd'hui ! Meeerci bcp pr votre aide bonne journée ☺
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 125
+--------------------------------------------------------------------------------
+Tweet ID: 423003
+
+CUSTOMER MESSAGE:
+@AmazonHelp M not getting solution from amazon.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 126
+--------------------------------------------------------------------------------
+Tweet ID: 970583
+
+CUSTOMER MESSAGE:
+@AmazonHelp Still no call received . Please respond ASAP @AmazonHelp
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 127
+--------------------------------------------------------------------------------
+Tweet ID: 1136233
+
+CUSTOMER MESSAGE:
+buy something from @115821, seller sends a barrage of emails asking for review.  post an honest review primarily about how you will get harangued by seller to post a review but product is adequate.  @115821 rejects your review, but won't tell you why.  wtf?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 128
+--------------------------------------------------------------------------------
+Tweet ID: 1237563
+
+CUSTOMER MESSAGE:
+Amazon tryna come into your house and put your package on your table meanwhile Fedex rings the bell and is driving off when I open the door.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 129
+--------------------------------------------------------------------------------
+Tweet ID: 1114375
+
+CUSTOMER MESSAGE:
+Guests have come and gone and the order remains to make an appearance....@115830 https://t.co/zoUsxCVB6C
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 130
+--------------------------------------------------------------------------------
+Tweet ID: 1791181
+
+CUSTOMER MESSAGE:
+@AmazonHelp Yes it’s activated it says 30 dollars in my account
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 131
+--------------------------------------------------------------------------------
+Tweet ID: 1426202
+
+CUSTOMER MESSAGE:
+As said b4, the agent's details are shared 2day, one day"Fake Promise"
+Shame @115850 @115821. No-one even had the shame to call and inform https://t.co/2BszaBZW2L
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 132
+--------------------------------------------------------------------------------
+Tweet ID: 2864719
+
+CUSTOMER MESSAGE:
+prime Nowで買い物をする
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 133
+--------------------------------------------------------------------------------
+Tweet ID: 701436
+
+CUSTOMER MESSAGE:
+@AmazonHelp Danke.. ich weiss echt nicht mehr was tun, weil das Paket ja bezahlt wurde und es einfach nur ankommen soll..
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 134
+--------------------------------------------------------------------------------
+Tweet ID: 2405151
+
+CUSTOMER MESSAGE:
+@AmazonHelp I appreciate your help, my email isn't linked to our amazon account so am I to assume that this is a scam email?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 135
+--------------------------------------------------------------------------------
+Tweet ID: 281159
+
+CUSTOMER MESSAGE:
+Amazonの受け取り先を会社にしていると、家に持って帰るとき微妙に困る。ダンボール抱えて帰るのもなんなので。
+有料で良いんで紙袋同梱サービスとかやって欲しいな。ちょうど良いサイズのが自動で入ってると嬉しい。
+@116313
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 136
+--------------------------------------------------------------------------------
+Tweet ID: 2276362
+
+CUSTOMER MESSAGE:
+@AmazonHelp @115821 @115851 @115850 https://t.co/aYj2ELCXv2
+
+FIRST CHANGE your policies.. I AM witng for earphones since 2 months, n now third time u hv sent wrong color
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 137
+--------------------------------------------------------------------------------
+Tweet ID: 2725020
+
+CUSTOMER MESSAGE:
+@AmazonHelp Done. Thanks for the help
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 138
+--------------------------------------------------------------------------------
+Tweet ID: 2840225
+
+CUSTOMER MESSAGE:
+@115821 I'm so disappointed , I placed orders on November 12th &amp; 23rd and both deliveries were screwed up!!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 139
+--------------------------------------------------------------------------------
+Tweet ID: 2361839
+
+CUSTOMER MESSAGE:
+Hey @115821 can you hire customer service members that understand what they’re doing k thanks
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 140
+--------------------------------------------------------------------------------
+Tweet ID: 1618370
+
+CUSTOMER MESSAGE:
+@115850 @AmazonHelp Dropped package 15 days ago to drop off location &amp; no refund yet. Pkg has been picked up already. Support not helping.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 141
+--------------------------------------------------------------------------------
+Tweet ID: 2303639
+
+CUSTOMER MESSAGE:
+@AmazonHelp @115830 hi I tried to call DHL and I don’t even know if they are my carrier? Please can you help me find my carrier I have lost money on furniture I have not received but have paid for
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 142
+--------------------------------------------------------------------------------
+Tweet ID: 442789
+
+CUSTOMER MESSAGE:
+@AmazonHelp Bonjour. Je viens de contacter votre SAV. Réponse totalement inutile. On me dit qu' il y'a 1 rupture de stock. Or j'avais précommandé le livre 3 mois avant sa sortie pour avoir 1 édition signée !
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 143
+--------------------------------------------------------------------------------
+Tweet ID: 2791903
+
+CUSTOMER MESSAGE:
+@AmazonHelp nossa foram muitos o box do death note, vários da darkside como só os animais salvam, ecos, donnie darko, circo mecânico, o ultimo adeus e +, mindhunter, origem do dan brown, mulher maravilha, (r)evolução das mulheres, trono negro e três coroas negras e alguns ebooks ❤️
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 144
+--------------------------------------------------------------------------------
+Tweet ID: 2378197
+
+CUSTOMER MESSAGE:
+Your Amazon.in order #171-7600944-4581914 is out for delivery
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 145
+--------------------------------------------------------------------------------
+Tweet ID: 2548042
+
+CUSTOMER MESSAGE:
+@AmazonHelp The link is not working, please tell me where my parcel is and when I am likely to receive it.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 146
+--------------------------------------------------------------------------------
+Tweet ID: 603159
+
+CUSTOMER MESSAGE:
+@AmazonHelp friday 1st dec was the original delivery date
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 147
+--------------------------------------------------------------------------------
+Tweet ID: 743262
+
+CUSTOMER MESSAGE:
+Please, please, please @115821 send me my book... 😭 #everydaywatercolor
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 148
+--------------------------------------------------------------------------------
+Tweet ID: 244693
+
+CUSTOMER MESSAGE:
+@AmazonHelp I am not filling anymore details anywhere,u check the registered account with email id __email__ and work on delivery of one+5
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 149
+--------------------------------------------------------------------------------
+Tweet ID: 19141
+
+CUSTOMER MESSAGE:
+@115850 I am a prime member but i can't get product so fast..
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 150
+--------------------------------------------------------------------------------
+Tweet ID: 206006
+
+CUSTOMER MESSAGE:
+@AmazonHelp Email confirmation from my bank account. I can’t contact you via that method...my account is closed, remember?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 151
+--------------------------------------------------------------------------------
+Tweet ID: 2111015
+
+CUSTOMER MESSAGE:
+@AmazonHelp Hi, I purchased something 11 business days ago and I haven't received my items yet, I am a PRIME subscriber and when clicking on "follow up" shipping it won't deliver any other information.. How can I track it down through AMZMX??
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 152
+--------------------------------------------------------------------------------
+Tweet ID: 1336211
+
+CUSTOMER MESSAGE:
+Our @126705 Postman was very angry when he knocked with this this morning @AmazonHelp ! Luckily he had 2 parcels to deliver so he guessed correctly but nearly didn't get my delivery! Is the postman supposed to guess? https://t.co/DTDJJXETFj
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 153
+--------------------------------------------------------------------------------
+Tweet ID: 425470
+
+CUSTOMER MESSAGE:
+@AmazonHelp trying to save urself by giving link of delivered order. please get the order number mentioned delivered.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 154
+--------------------------------------------------------------------------------
+Tweet ID: 16448
+
+CUSTOMER MESSAGE:
+@AmazonHelp こんにちは。先日Amazonギフト券チャージのやり方を教えていただいた者です。チャージが終了しアカウントに登録されたのですが、買い物でお支払い方法のコード入力とはどこに書かれてあるのですか？「次に進む」が表示されず買い物できません。どうすれば良いですか？
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 155
+--------------------------------------------------------------------------------
+Tweet ID: 2408721
+
+CUSTOMER MESSAGE:
+@AmazonHelp Stop assuring. 7 agents did that today!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 156
+--------------------------------------------------------------------------------
+Tweet ID: 125302
+
+CUSTOMER MESSAGE:
+@AmazonHelp Nun gut, ich probiere es mal und gehe dann auch erstmal ins Bett, danke für die Antworten erstmal 😃
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 157
+--------------------------------------------------------------------------------
+Tweet ID: 596771
+
+CUSTOMER MESSAGE:
+@AmazonHelp Being a prime member for 3 years now,might as well just not pay for prime since I'm having to wait another 3 days for a product that should have come new. I mean what is the normal ship time without prime... 7 business days?! We aren't far off now are we?.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 158
+--------------------------------------------------------------------------------
+Tweet ID: 2602981
+
+CUSTOMER MESSAGE:
+@AmazonHelp I assume you outsource deliveries.it's no exaggeration when I say he waited 10 seconds.somewhere someone has had a nice freebie on my last order.luckily Amazon believed me.This one needs a signature thankfully.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 159
+--------------------------------------------------------------------------------
+Tweet ID: 583542
+
+CUSTOMER MESSAGE:
+Bought @89677 HT1309 from @115850 now charger not working. Need Help.. https://t.co/HMlePlP5of
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 160
+--------------------------------------------------------------------------------
+Tweet ID: 2750369
+
+CUSTOMER MESSAGE:
+@115850 when will you annouce winners for the OnePlus 5t quiz and the level quiz as well?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 161
+--------------------------------------------------------------------------------
+Tweet ID: 534070
+
+CUSTOMER MESSAGE:
+@AmazonHelp Left there for up to 2 days in the rain. There's a book in that parcel. If you stopped underpaying your drivers and holding them to unfair working conditions (no payment if the customer doesn't take the parcel, causing issues like this) maybe you'd have fewer complaints.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 162
+--------------------------------------------------------------------------------
+Tweet ID: 1510497
+
+CUSTOMER MESSAGE:
+@AmazonHelp 3rd delivery in a couple of months that hasn't arrived. 3rd party oder arrived 2 days early!I'm bound to be due free 1yr Prime!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 163
+--------------------------------------------------------------------------------
+Tweet ID: 663823
+
+CUSTOMER MESSAGE:
+@AmazonHelp as i wrote earlier I have done that three times.  They have as little info as you do.  Why do you call yourself help if you cant help?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 164
+--------------------------------------------------------------------------------
+Tweet ID: 2685195
+
+CUSTOMER MESSAGE:
+@AmazonHelp The point is that Wednesday delivery is not one day delivery. I can very rarely get anything delivered next day anymore - it used to be so great, but I won’t spend £80 on a three or four day service.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 165
+--------------------------------------------------------------------------------
+Tweet ID: 1095958
+
+CUSTOMER MESSAGE:
+Ah sinon, chez vous aussi @120533 est inaccessible uniquement depuis Firefox (56) ? https://t.co/lLR82cZPmM
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 166
+--------------------------------------------------------------------------------
+Tweet ID: 1219171
+
+CUSTOMER MESSAGE:
+C’est mal de laisser un calque mal synchronisé sur une pub @AmazonHelp https://t.co/zoitAPvFNZ
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 167
+--------------------------------------------------------------------------------
+Tweet ID: 1338605
+
+CUSTOMER MESSAGE:
+@AmazonHelp sir tell me why my cash is not back to me
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 168
+--------------------------------------------------------------------------------
+Tweet ID: 2367914
+
+CUSTOMER MESSAGE:
+@AmazonHelp Just wondering where these kicks are. They were suppose to be here by now. This email confuses me.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 169
+--------------------------------------------------------------------------------
+Tweet ID: 2609240
+
+CUSTOMER MESSAGE:
+@706738 @120540 Allora non sono l'unico a cui capitano. A gennaio non rinnoverò Prime, negli ultimi mesi 5 spedizioni con ritardi. Che senso ha pagare pure un abbonamento se poi non funziona il servizio? p.s. tra l'altro a me capitato sempre con il loro corriere interno (Amazon Logistics) 😑
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 170
+--------------------------------------------------------------------------------
+Tweet ID: 2703132
+
+CUSTOMER MESSAGE:
+@AmazonHelp I have tried that gives me call and email no chat?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 171
+--------------------------------------------------------------------------------
+Tweet ID: 281954
+
+CUSTOMER MESSAGE:
+@AmazonHelp Terrible experience with cancellation process in amazon. https://t.co/45cQ0rWx07
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 172
+--------------------------------------------------------------------------------
+Tweet ID: 2830772
+
+CUSTOMER MESSAGE:
+@AmazonHelp Yes all the items in my order are fulfilled by Amazon
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 173
+--------------------------------------------------------------------------------
+Tweet ID: 2726815
+
+CUSTOMER MESSAGE:
+@AmazonHelp How much time to take for diliver
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 174
+--------------------------------------------------------------------------------
+Tweet ID: 1005105
+
+CUSTOMER MESSAGE:
+@AmazonHelp Eagerly waiting for my product. Hope you understand it and will take action as soon as possible
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 175
+--------------------------------------------------------------------------------
+Tweet ID: 280626
+
+CUSTOMER MESSAGE:
+@AmazonHelp Ahí dice q en mi caso contacte con el transportista que es lo q ya he hecho desde hace una semana con pésima atención de @130709 https://t.co/XpUsxsaGFS
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 176
+--------------------------------------------------------------------------------
+Tweet ID: 2664066
+
+CUSTOMER MESSAGE:
+@AmazonHelp Der Link wurde mir schon ein paar mal geschickt. Er beantwortet aber nicht meine Frage: Warum darf ich nicht mehr per Bankeinzug zahlen? Ich werde mir keine Amazon Kreditkarte kaufen! Ich kaufe garnichts mehr bei Amazon! Saftladen! (Aber danke für deinen Willen zu helfen)
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 177
+--------------------------------------------------------------------------------
+Tweet ID: 2790466
+
+CUSTOMER MESSAGE:
+@115830 book arrived today with fingerprints smeared in, what I hope is... glue? But could something much worse. Cannot be given as Christmas present 🤢
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 178
+--------------------------------------------------------------------------------
+Tweet ID: 850142
+
+CUSTOMER MESSAGE:
+@AmazonHelp Non pas encore.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 179
+--------------------------------------------------------------------------------
+Tweet ID: 2255230
+
+CUSTOMER MESSAGE:
+@115821 I'm trying to checkout with @1384 and it says "no delivery times available." Is there something going on in CLT? I've had several successful deliveries in the past...
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 180
+--------------------------------------------------------------------------------
+Tweet ID: 2524372
+
+CUSTOMER MESSAGE:
+Hey @115821, your “shipping partner” @2150 is awful. Failed 1-day delivery, pkg “misrouted” on 2nd day after being told by customer service that driver was en route to my home. I will be sure to cancel any future order that shows to be handled by @2150. Unacceptable.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 181
+--------------------------------------------------------------------------------
+Tweet ID: 2826407
+
+CUSTOMER MESSAGE:
+@AmazonHelp Va bene :)
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 182
+--------------------------------------------------------------------------------
+Tweet ID: 2472509
+
+CUSTOMER MESSAGE:
+@115850 @AmazonHelp @115821 pathetic service ever. The package that was supposed be delivered last Friday hasn’t reached yet.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 183
+--------------------------------------------------------------------------------
+Tweet ID: 2690663
+
+CUSTOMER MESSAGE:
+@115821 I love it when I my package is in my area then the driver parks outside my house sorts threw packages then drives off and customer service is useless @AmazonHelp
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 184
+--------------------------------------------------------------------------------
+Tweet ID: 795721
+
+CUSTOMER MESSAGE:
+@115850 I have not rescheduled my delivery. I have called them 3 times asking where the order is. They are trying to cheat your system https://t.co/ehRFAcmhrB
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 185
+--------------------------------------------------------------------------------
+Tweet ID: 1180560
+
+CUSTOMER MESSAGE:
+@115821 What's the deal with your shipping department?  Are you instructing them to destroy orders so Prime members like myself will cancel?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 186
+--------------------------------------------------------------------------------
+Tweet ID: 729221
+
+CUSTOMER MESSAGE:
+@AmazonHelp hello mon compte est inaccessible !  merci de me contacter en MP pour vous donner mon login. merci
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 187
+--------------------------------------------------------------------------------
+Tweet ID: 1786560
+
+CUSTOMER MESSAGE:
+So @3375 either delivered to the WRONG address, or lied &amp; marked it delivered 5 minutes before @115821’s guaranteed time. #ontrac
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 188
+--------------------------------------------------------------------------------
+Tweet ID: 738378
+
+CUSTOMER MESSAGE:
+@115830 Ordered Philips Epilator more than a week ago and the delivery date was maximum by 10/10. Still waiting. Shitty response by site.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 189
+--------------------------------------------------------------------------------
+Tweet ID: 446780
+
+CUSTOMER MESSAGE:
+@116875 oigan como que alguien por ahí agarró mi envío de servilleta, que onda? https://t.co/BWyi2YaWE6
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 190
+--------------------------------------------------------------------------------
+Tweet ID: 2913233
+
+CUSTOMER MESSAGE:
+Hey @120533 , c'est normal que mes commandes amazon prime expédiées via @77516, n'arrivent jamais ?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 191
+--------------------------------------------------------------------------------
+Tweet ID: 30026
+
+CUSTOMER MESSAGE:
+@AmazonHelp bom dia! Agora que o serviço do prime vídeo pode ser pago em Reais, fica a dúvida: os outros canais extras do prime também?
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 192
+--------------------------------------------------------------------------------
+Tweet ID: 67567
+
+CUSTOMER MESSAGE:
+@AmazonHelp Shows as ‘on its way’ and only having left carrier depot at 9.40pm this evening. Delivery is by Amazon Logistics. App still shows the delivery date as today but when I go through the support section of the app it tells me scheduled delivery is tomorrow (30th)
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 193
+--------------------------------------------------------------------------------
+Tweet ID: 737158
+
+CUSTOMER MESSAGE:
+@AmazonHelp I'm not able to access this link
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 194
+--------------------------------------------------------------------------------
+Tweet ID: 656158
+
+CUSTOMER MESSAGE:
+So tell me @115830, how can my parcel be in the wrong place and the right place at the same time? I pay for prime membership and you can't even send it to the right place.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 195
+--------------------------------------------------------------------------------
+Tweet ID: 2137909
+
+CUSTOMER MESSAGE:
+@AmazonHelp Vor einer halben Stunde kam die Benachrichtigung, dass die Sendung um 1456h im Shop angekommen ist. #fail
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 196
+--------------------------------------------------------------------------------
+Tweet ID: 1145926
+
+CUSTOMER MESSAGE:
+@AmazonHelp No luckily, but who knows with the state it was them!
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 197
+--------------------------------------------------------------------------------
+Tweet ID: 1774583
+
+CUSTOMER MESSAGE:
+@AmazonHelp I just tried this, nobody called me  or helped me
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 198
+--------------------------------------------------------------------------------
+Tweet ID: 2954320
+
+CUSTOMER MESSAGE:
+@AmazonHelp I ordered a package. It got “rescheduled” at 1:31pm. Suppose to be here by 8pm.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 199
+--------------------------------------------------------------------------------
+Tweet ID: 2586299
+
+CUSTOMER MESSAGE:
+@AmazonHelp Said they'd sent me Chronicle when available and issue a refund. This is 2nd time this month and happens frequently. No one in support has a clue how to resolve or explain the problem. Was told once to call the Chronicle. I pay Amazon so I expect you to resolve issue not me.
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+
+EXAMPLE 200
+--------------------------------------------------------------------------------
+Tweet ID: 514639
+
+CUSTOMER MESSAGE:
+"arriving today by 8pm" my ass amazon its 6 30 and ive YET to see my package
+
+YOUR LABEL:
+Intent: ______________________________
+Escalation: ___________________________
+Reason: _______________________________
+Notes: ________________________________
+
+================================================================================
+

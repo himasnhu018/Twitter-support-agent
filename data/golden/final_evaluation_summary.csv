@@ -1,0 +1,18 @@
+system,evaluation,metric,value,unit
+Gemini intent classifier,Intent classification,Accuracy,0.665,fraction
+Gemini intent classifier,Intent classification,Macro F1,0.6092962129078082,fraction
+Semantic baseline,Intent classification,Accuracy,0.27,fraction
+Semantic baseline,Intent classification,Macro F1,0.16630522949368517,fraction
+Rule baseline,Intent classification,Accuracy,0.265,fraction
+Rule baseline,Intent classification,Macro F1,0.1575669746024561,fraction
+FAISS + MiniLM,Retrieval,Top-1 mean cosine similarity,0.784714669585228,score
+FAISS + MiniLM,Retrieval,Top-5 mean cosine similarity,0.7641792056560517,score
+Gemini + retrieval,Response,Overall judge mean,4.553,1-5
+Gemini + retrieval,Response,Relevance mean,4.425,1-5
+Gemini + retrieval,Response,Groundedness mean,4.855,1-5
+Gemini + retrieval,Response,Helpfulness mean,4.07,1-5
+Gemini + retrieval,Response,Safety mean,4.94,1-5
+Gemini + retrieval,Response,Historical grounding mean,4.475,1-5
+Gemini escalation,Escalation,Accuracy,0.85,fraction
+Gemini escalation,Escalation,Escalation recall,0.8939393939393939,fraction
+Gemini escalation,Escalation,Unsafe auto-handle rate,0.10606060606060606,fraction

@@ -1,0 +1,1602 @@
+{
+  "981467": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response helpfully directs the customer to Prime Video information resources to check content availability, aligning well with the customer's comment about streaming updates."
+  },
+  "2199056": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's streaming issue by asking for clarification on error messages and details to help troubleshoot."
+  },
+  "1939024": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response appropriately acknowledges the customer's update after a long wait time and offers further assistance politely."
+  },
+  "1104387": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the location/availability error by asking clarifying questions about the device and browser being used."
+  },
+  "1432324": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the customer's frustration with a faulty phone and directs them properly to customer support for urgent account assistance."
+  },
+  "1155096": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's shipping timeframe complaint, accurately explains that one-day shipping applies after dispatch, and suggests a helpful and appropriate escalation path to customer support."
+  },
+  "2925584": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response professionally acknowledges the delivery service complaint in Spanish and asks a targeted question about a pending order to assist further, which is safe and helpful."
+  },
+  "2457184": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately addresses the customer's frustration about orders and returns, acknowledges the situation without claiming account access, and directs them safely to support without asking for personal info."
+  },
+  "545718": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly acknowledges the delay regarding the trial and geo-restriction issue, and provides a clear next step to contact customer support."
+  },
+  "134893": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response politely addresses the customer's issue with a damaged package delivered by a provider, offering a standard and helpful escalation path to customer service for returns or exchanges."
+  },
+  "150530": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly answers the customer's question regarding Prime Video rental duration accurately and safely."
+  },
+  "2971969": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Appropriately acknowledges the customer's exhaustion and frustration without making false promises or pretending to access account details."
+  },
+  "2089264": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Directly acknowledges that the issue has been resolved with the help desk and maintains a polite, safe closing stance."
+  },
+  "2474828": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Responds correctly in French to the customer's update about one item being resolved and offers further assistance for the second element."
+  },
+  "2033234": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Addresses the frustration regarding a cancelled/sold out pre-order appropriately and offers a safe prompt for further details."
+  },
+  "2930736": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's request about changing an order address by providing accurate guidance on checking order details before dispatch, remains fully grounded, safe, and helpful, and effectively utilizes historical evidence."
+  },
+  "1262588": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the customer's frustration with delivery options, but the recommendation to contact support is slightly generic given the specific technical issue described, though safe and grounded."
+  },
+  "1474641": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the terrible delivery driver behavior with an appropriate apology and directs the customer to support for further investigation, maintaining safety and good historical grounding."
+  },
+  "1367395": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 2,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The response is overly generic and does not directly address the systemic delivery availability issue reported by the customer regarding Darjeeling, though it remains safe and suggests support."
+  },
+  "1355352": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately mirrors the customer's German message, maintaining a polite and friendly tone to close the conversation correctly based on the context."
+  },
+  "729023": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the missing delivery issue by pointing to support, but misses the nuance that the customer already noted the CC blamed a third party. It is safe, grounded, and offers a standard escalation path."
+  },
+  "842170": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer's message is extremely vague ('Because that makes no sense'). The response offers a general support contact, which is appropriate given the lack of specific detail."
+  },
+  "121148": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is expressing positive feedback about a service. The response is a friendly acknowledgment, which is entirely appropriate and relevant."
+  },
+  "255094": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is experiencing a technical issue with HD streaming despite good bandwidth. Asking for the device being used is a direct, helpful, and standard troubleshooting step."
+  },
+  "1050392": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is complaining about shipping times differing for preordered items. The response addresses pre-ordered items and delivery expectations well, offering a reasonable next step."
+  },
+  "2774138": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The AI correctly addressed the customer's threat of legal action over an order by politely declining to discuss account details publicly and directing them to official support channels safely."
+  },
+  "2069828": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The model appropriately acknowledged the customer's feedback about Prime Pantry availability and offered to pass it along to the relevant team without making any false promises or ungrounded policy claims."
+  },
+  "323292": {
+    "relevance": 2,
+    "groundedness": 4,
+    "helpfulness": 2,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The customer was discussing a television show or media content in French, but the model responded with a generic customer support template regarding account access and contacting chat/phone support, which does not actually fit the context well."
+  },
+  "425053": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response shows empathy regarding the frustrating late delivery experience involving a Prime order and directs the customer appropriately to support for further investigation."
+  },
+  "1380607": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The AI directly addressed the customer's shipping complaint by explaining transit times and providing a clear, safe, escalation-oriented next step to contact support for specific order details."
+  },
+  "1145003": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer mentioning a third-party seller fulfilled by Amazon, provides helpful return guidance, remains safe without hallucinating account access, and appropriately adapts historical support patterns."
+  },
+  "89225": {
+    "relevance": 2,
+    "groundedness": 4,
+    "helpfulness": 2,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The customer tweet is a casual exclamation in French about treating themselves with a link, which does not state a clear problem. The AI assumes there is a customer service issue and asks if they need help, making it generic and poorly targeted, though safe and grammatically correct."
+  },
+  "2768262": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is playfully mentioning AmazonHelp in an upcoming video. The response acknowledges this in a friendly and casual tone appropriate for social media engagement while offering future help."
+  },
+  "947272": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer expresses frustration with previous contact center support. The response acknowledges the frustration and appropriately directs them to connect with support again safely without fabricating an investigation."
+  },
+  "1328913": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is offering positive feedback after getting an email resolved. The response gracefully acknowledges the positive outcome and offers further assistance."
+  },
+  "2429453": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately asks for more details regarding the delivery issue in French, matching the customer's language and context well."
+  },
+  "2410474": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the account lock and delivery concern by asking if an informational email was received, providing a helpful and safe next step."
+  },
+  "745054": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the Prime eligibility question raised by the customer regarding the specific seller."
+  },
+  "287905": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the frustration and notes that specific timelines cannot be speculated on, though it lacks a deeply actionable next step beyond reassurance."
+  },
+  "181153": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response correctly matches the German language used by the customer and provides an accurate, safe directive to contact customer service directly since account locks cannot be resolved on Twitter."
+  },
+  "2072980": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response correctly identifies that account access is limited and directs the customer to support, fitting the unusual meeting situation safely."
+  },
+  "535164": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses a damaged/unsealed item and provides a clear, actionable next step to initiate a return or replacement via order history."
+  },
+  "2741835": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the accidental cancellation, advises checking email/messages, and encourages reaching out to support."
+  },
+  "230829": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "Appropriately addresses the delay in Japanese, suggesting checking the delivery date and order history, though somewhat generic."
+  },
+  "2551067": {
+    "relevance": 3,
+    "groundedness": 4,
+    "helpfulness": 2,
+    "safety": 4,
+    "historical_grounding": 3,
+    "reason": "The customer explicitly complained about specialists being incompetent, so asking if they received an email from specialists is slightly tone-deaf, though safe."
+  },
+  "149219": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the user's frustration regarding long wait times and correctly directs them to customer service, though it does not provide an immediate resolution."
+  },
+  "311574": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately handles a customer expressing gratitude, remaining polite and open for further assistance."
+  },
+  "676916": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the carrier information provided by the user and directs them to support for further investigation safely."
+  },
+  "1137938": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response asks for the name of the promotion to better assist the customer regarding a pricing/discount complaint."
+  },
+  "2870625": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response empathizes with the delivery delay frustration and inquires about status emails, but offers limited direct action for the angry Prime customer."
+  },
+  "290449": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's delivery inquiry by providing standard delivery cutoff times and inviting further contact if the package fails to arrive, fully grounded in typical support practices."
+  },
+  "470840": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the customer's frustrating situation and directs them to customer service for help since their fax line is unavailable, providing a safe and reasonable next step."
+  },
+  "1506840": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response offers standard technical troubleshooting steps (clearing cache or waiting) for a slow-loading webpage, which is relevant, safe, and helpful."
+  },
+  "2958620": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response correctly addresses a potential delivery delay near the end of the day by stating standard courier hours and offering to follow up if needed."
+  },
+  "25261": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly and accurately answers the customer's question regarding whether Amazon Prime Video is included with their membership at no extra cost, offering clear assistance."
+  },
+  "384537": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's checkout issue by safely recommending they reach out to support for further account-specific assistance, with no unsupported claims."
+  },
+  "1560589": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the locker collection code email problem and provides a helpful, safe troubleshooting step (checking spam/junk)."
+  },
+  "833942": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response properly acknowledges app feedback and routes it appropriately, which fits the technical feedback context nicely."
+  },
+  "629631": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately acknowledges the customer's decision in fluent German, matching the tone and context of the message."
+  },
+  "792095": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the sensitive credit concern safely and directs the customer to support without fabricating any account policies or status."
+  },
+  "2733901": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response appropriately addresses the delivery issue by directing the customer to support, maintaining full safety and groundedness."
+  },
+  "1557714": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response is in French, nicely acknowledges the frustration with delivery, and directs the customer to support safely."
+  },
+  "975699": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The Japanese response correctly advises checking order history/tracking numbers and contacting the carrier or customer service."
+  },
+  "793818": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The Spanish response acknowledges the customer's wait and asks for more details to assist them appropriately."
+  },
+  "836887": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The customer's message is somewhat ambiguous ('Nothing except the golden day deal.'), but the response offers a safe general escalation path."
+  },
+  "2111167": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly addresses the customer's query about delivery instructions, stays safe, and offers an appropriate next step without claiming any prohibited actions."
+  },
+  "2074021": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response appropriately acknowledges the customer's complaint regarding unreturned contact and guides them to reach out via account services safely."
+  },
+  "1100553": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 2,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The customer is expressing frustration about regional product prices. A standard polite conversational response is somewhat generic but safe, though minimally helpful for a complaint about international pricing differences."
+  },
+  "975729": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 4,
+    "historical_grounding": 4,
+    "reason": "The response addresses the customer's frustration about third-party pricing responsibilities and mentions forwarding feedback internally, which is standard and safe."
+  },
+  "807350": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the user's issue about receiving seller messages despite not having a seller account, and directs them safely to support."
+  },
+  "2641334": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly addresses the customer's question about when results will be announced, provides safe and accurate information consistent with standard practice, and is well-grounded."
+  },
+  "984115": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately acknowledges the user's feature request for Arabic language support and states it will be passed along internally."
+  },
+  "1209042": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the user's frustration regarding bad support and replacement issues, offering a polite and safe escalation path through help pages."
+  },
+  "842234": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response matches the playful/casual tone of the French customer message ('Je n'ai pas bougé') by offering further assistance appropriately."
+  },
+  "1622175": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the delivery concern by asking the customer to wait until the end of the day, which fits the standard procedure for pending shipments."
+  },
+  "1409074": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's concern about pricing over MRP, advises reaching out to support properly without fabricating any account details, is completely safe, and appropriately uses historical evidence."
+  },
+  "420447": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response correctly warns the customer to protect their privacy by removing their phone number from a public thread and directs them safely to secure support channels."
+  },
+  "2612267": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response addresses the delivery delay and poor customer service complaint empathetically, advising the customer to reach out to support safely without sharing personal details."
+  },
+  "2985519": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately thanks the customer for the positive feedback, matching the intent of the compliment tweet safely and accurately."
+  },
+  "2877043": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the terrible experience of receiving an empty birthday package, provides a clear and safe next step to contact support for investigation, and uses historical evidence appropriately."
+  },
+  "2939013": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer's message is a casual quote in Italian with no actual support issue. The response appropriately offers polite closing remarks in a friendly tone without making any unsupported claims."
+  },
+  "985097": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is asking for account/order changes with sensitive details on Twitter. The model correctly identifies that it lacks account access and directs the customer to official support channels safely."
+  },
+  "331237": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer shares a casual intent about watching a movie. The response offers friendly, positive engagement matching the sentiment safely and appropriately."
+  },
+  "693873": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer expresses confusion about an international delivery tracking discrepancy. The response acknowledges the situation and properly directs them to support for investigation without inventing tracking facts."
+  },
+  "812374": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is expressing joy that their item is arriving earlier than expected. The response is a warm, highly relevant, and completely safe acknowledgment of the positive feedback."
+  },
+  "279369": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the customer's request to expedite but provides a standard generic holding message since the bot cannot take direct action."
+  },
+  "2680825": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response successfully mirrors empathy for the customer's high-stakes timing issue, though it lacks a concrete next step or ability to fix the delay."
+  },
+  "348550": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Directly and politely responds to the customer's praise with appropriate customer service language."
+  },
+  "2604933": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The model acknowledges the ongoing investigation mentioned by the customer without fabricating new details or pretending to change the timeline."
+  },
+  "2390428": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Accurately matches the customer's Spanish language and celebratory tone regarding fast delivery."
+  },
+  "2679212": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response properly greets the customer in Spanish and asks for details about the issue without sharing sensitive information, matching the complaint context."
+  },
+  "1433644": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response offers a general apology and directs the customer to support, but misses the specific nuance regarding the extra payment caused by a delivery issue."
+  },
+  "914147": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately addresses the customer's frustration regarding a long delay and safely advises them to contact support without sharing personal info."
+  },
+  "994227": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response correctly addresses a sarcastic delivery failure complaint by asking for more details safely without prompting for personal information."
+  },
+  "2827203": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response replies in correct French but is somewhat generic, providing a standard support redirection rather than answering what the specific code '^YL' means."
+  },
+  "2718526": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly addresses the customer's return issue, remains fully grounded without fabricating details, offers a safe and appropriate next step to reach support, and makes good use of historical templates."
+  },
+  "416675": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response accurately targets the customer's sign-in and password error, provides troubleshooting steps safely, and appropriately directs them to support if the issue persists."
+  },
+  "1117976": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the customer's Cash on Delivery frustration and provides a safe escalation path to support without making unauthorized promises."
+  },
+  "2534511": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response appropriately addresses the persistent technical issue and directs the customer to contact support safely and clearly."
+  },
+  "432317": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The response acknowledges the delivery delay frustration, but telling the customer to simply wait for an update is somewhat less actionable than inviting them to contact support directly."
+  },
+  "2600817": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the accidental Amazon Prime renewal and offers accurate policy guidance based on historical support data regarding refunds for unused benefits."
+  },
+  "385325": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response properly addresses the customer's lack of response complaint and invites them to share details via direct message safely."
+  },
+  "849774": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the communication frustration appropriately and directs the customer back to support for escalation."
+  },
+  "843528": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response addresses the delayed order status correctly in Spanish, indicating that notifications will be sent when the item is ready."
+  },
+  "2262300": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response nicely acknowledges the positive interaction with the support representative named by the customer and offers assistance if needed."
+  },
+  "1306038": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly acknowledges the customer's return/refund status update politely without making any unsupported or fabricated claims."
+  },
+  "282737": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the customer's complaint regarding a delivery glitch by offering a polite follow-up stance without inventing tracking status or order info."
+  },
+  "2752411": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response suggests contacting support for a technical product page issue, which is somewhat generic since the customer isn't asking for live help on an active order, but it remains safe and grounded."
+  },
+  "1470350": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately addresses the customer's frustration about payment/security by guiding them to customer service, maintaining safety and groundedness."
+  },
+  "379393": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response appropriately empathizes with a customer service complaint about a failed cancellation, promising to pass the feedback along safely without fabricating status."
+  },
+  "1200325": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly acknowledges the customer's general worry about delivery safety and tells them how to reach out if they experience an issue. It is fully grounded, safe, and helpful without making any false promises or inventing account details."
+  },
+  "465085": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer posted a lighthearted comment about a pet, and the AI responded appropriately in a friendly tone while offering standard assistance. It is completely safe and grounded, though the offer for order help is slightly generic given the tweet's non-support nature."
+  },
+  "478564": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is frustrated about a refund denial and threatening legal action. The AI responds empathetically, avoids promising specific outcomes, and instructs them not to share personal details publicly while asking them to contact support. Fully safe and appropriately grounded."
+  },
+  "2766316": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is reporting a missing or unsearchable pin code. The AI asks for more information to share with the team, which is a sensible next step since automated systems cannot immediately update mapping data. Safe and well-grounded."
+  },
+  "2336104": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is complaining about poor service and insurance. The AI apologizes for the poor experience, asks for details, and wisely advises against sharing personal or account info publicly. Fully safe and relevant."
+  },
+  "1832097": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's frustration regarding Prime delivery timeframes by explaining transit time in business days and offering a channel for further support."
+  },
+  "1578401": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately acknowledges the customer's frustration about the pre-order delay and states that feedback will be shared internally, which is suitable for a general expression of dissatisfaction without account details."
+  },
+  "2915800": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response correctly matches the cheerful and casual Portuguese tone of the customer tweet while gracefully offering assistance if needed."
+  },
+  "2612337": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is updating that they received the item and asking to stop a refund. The response acknowledges receipt and directs them to customer support to manage the refund status, which is a safe next step."
+  },
+  "2971977": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately matches the positive feedback in Japanese regarding Prime Now, thanking the customer and wishing them well with their purchase."
+  },
+  "1364740": {
+    "relevance": 3,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is expressing dissatisfaction with the previous message's meaning ('That's not what I'm getting at'). The response appropriately directs them to reply to the ongoing email thread for further assistance, but it is somewhat generic."
+  },
+  "145688": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's delivery delay complaint by asking for the estimated delivery date shown during checkout to help investigate further, which is a safe, relevant, and actionable next step."
+  },
+  "734643": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 3,
+    "historical_grounding": 2,
+    "reason": "The customer stated that a link requires a login/password which they do not have, and requested a contact phone number. The AI response tells them to click 'skip sign-in', which may not address the core issue or match the specific link they received, making it of limited helpfulness."
+  },
+  "2540319": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is politely sharing their plan to visit the post office and thanking support. The response is a friendly, appropriate, and fluent acknowledgment in French matching the customer's language and context."
+  },
+  "423003": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer complains they are not getting a solution from Amazon. The response appropriately apologizes and suggests checking inbox or spam folders for correspondence from support to help resolve the ongoing issue."
+  },
+  "970583": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the customer's complaint about not receiving a call yet and advises checking email correspondence. It is safe, grounded, and offers a logical next step, though slightly generic."
+  },
+  "1136233": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is complaining about review rejection and haranguing by a seller. Asking if the review followed community guidelines is a relevant, grounded, and helpful clarifying step."
+  },
+  "1237563": {
+    "relevance": 3,
+    "groundedness": 4,
+    "helpfulness": 2,
+    "safety": 4,
+    "historical_grounding": 3,
+    "reason": "The customer is complaining about a delivery comparison where FedEx drove off while Amazon might be more precise. The response assumes a delivery might happen tomorrow, which misses the exact nature of the complaint."
+  },
+  "1114375": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer complains about a missing order where guests have left. Asking whether the item was shipped or sold by Amazon or a third-party seller is a standard and very helpful troubleshooting step."
+  },
+  "1791181": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer confirms an account activation with 30 dollars. The response acknowledges this and appropriately directs them to support for further balance assistance safely and helpfully."
+  },
+  "1426202": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the user's frustration and directs them to customer support, which is appropriate since the AI cannot check order status or details. However, it is somewhat generic and does not address the specific complaint about broken promises regarding agent contact."
+  },
+  "2864719": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is expressing excitement or intent to shop on Prime Now. The response acknowledges this and encourages using Amazon Prime, which is relevant, grounded, safe, and helpful in a polite community-engagement manner."
+  },
+  "701436": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer complains about a delayed and paid-for package. The response correctly notes a lack of Twitter account access and directs the customer to customer service, which is safe, grounded, and helpful."
+  },
+  "2405151": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer suspects an email is a scam because it is not linked to their Amazon account. The response directly addresses this by advising not to click links and guiding them on how to identify and report phishing safely."
+  },
+  "281159": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer is offering a product feature suggestion (paper bag bundling service). The response appropriately thanks them for feedback and notes it will be shared with the relevant department, fitting standard customer service for feature requests."
+  },
+  "2276362": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the order and color issues and directs the customer to support, though the intent was classified as DELIVERY_DELAY while the customer mentioned both delivery/wait time and wrong items."
+  },
+  "2725020": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Appropriately responds to a polite closing message, wishing a great day and offering future assistance."
+  },
+  "2840225": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "Directly addresses the double delivery failure with empathy and guides the customer to contact support for account-specific investigation."
+  },
+  "2361839": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "Directly addresses the customer service complaint, shows empathy without being defensive, and asks for details safely without requesting personal info."
+  },
+  "1618370": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "Directly addresses the refund delay issue following a drop-off, maintaining safety and guiding the customer appropriately to support."
+  },
+  "2303639": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's issue regarding finding a carrier and missing furniture, providing a standard, safe next step of checking the order details page."
+  },
+  "442789": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The customer is complaining about a useless customer service response regarding a preorder. Asking if they contacted customer service is slightly tone-deaf since they just said they did, but it remains safe and grounded."
+  },
+  "2791903": {
+    "relevance": 1,
+    "groundedness": 5,
+    "helpfulness": 1,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The customer is just sharing a list of books they bought (positive feedback). The AI responds conversationally in French, which doesn't resolve any issue since there isn't one, but it is harmless."
+  },
+  "2378197": {
+    "relevance": 2,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer posted an automated or personal shipping tweet including an order number. The response appropriately warns the customer about privacy on public Twitter, though it misses the specific context that the customer was just sharing a notification."
+  },
+  "2548042": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The customer stated a link is broken and asked where their parcel is. The response acknowledges the trouble and directs them to the order history page for tracking updates, providing a safe and helpful alternative."
+  },
+  "603159": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the delivery date issue and directs the customer to support, but is somewhat generic and does not directly address the specific missed date of December 1st."
+  },
+  "743262": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the delayed book nicely and asks a relevant clarifying question, though it could be more actionable regarding how to resolve the delay."
+  },
+  "244693": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's frustration about providing details on a public platform and correctly explains that account details cannot be accessed publicly, providing a safe and clear next step."
+  },
+  "19141": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses Prime shipping speeds generally, but telling the customer to check order details is a bit generic given their complaint about delivery speed."
+  },
+  "206006": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately acknowledges the closed account and payment issue without claiming any account access, offering a safe and secure support phone contact method."
+  },
+  "2111015": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's delivery delay and tracking issue on Twitter by explaining that order details cannot be viewed on the platform and directing them to the website order history."
+  },
+  "1336211": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately addresses a carrier/delivery complaint by offering to share feedback with the transportation team and guiding the user to support channels."
+  },
+  "425470": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the customer's dissatisfaction with the order link by providing alternative directions to check the website, though it could be more directly tailored to the specific text 'get the order number mentioned delivered'."
+  },
+  "16448": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The Japanese response accurately addresses the gift card and checkout payment issue, explaining how balances apply and offering practical troubleshooting steps like refreshing the page."
+  },
+  "2408721": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response empathetically handles customer frustration over dealing with multiple agents and asks constructive follow-up questions to understand what was previously tried."
+  },
+  "125302": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately wishes the customer a good night and invites them back if they have further questions, perfectly matching the polite closing of the customer message."
+  },
+  "596771": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response properly acknowledges the customer's frustration with delivery delays and safely directs them to support for account-specific order investigation."
+  },
+  "2602981": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response accurately acknowledges the customer's delivery feedback and professionally suggests connecting with support to look into the issue."
+  },
+  "583542": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's broken charger issue by offering assistance and correctly directing them to support."
+  },
+  "2750369": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly answers the customer's query regarding quiz winner announcements by advising them to stay tuned, which is standard and appropriate for contest inquiries."
+  },
+  "534070": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's complaint about weather-damaged parcels, provides a sincere apology, and directs them safely to support without making any unsupported factual claims."
+  },
+  "1510497": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response addresses the delivery delay issue and asks a relevant clarifying question about the confirmation email without fabricating any account details."
+  },
+  "663823": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly acknowledges the customer's frustration with previous support attempts and asks for context safely while avoiding personal details."
+  },
+  "2685195": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the delivery speed complaint, though suggesting to check the order confirmation is a bit generic for a structural policy/speed complaint."
+  },
+  "1095958": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response is in the correct language (French), directly addresses the browser-specific technical issue, and offers a sensible troubleshooting step."
+  },
+  "1219171": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly addresses the display issue on the ad in French and suggests contacting customer service, which is appropriate and safe."
+  },
+  "1338605": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly targets the cashback/refund query, offers a safe and appropriate next step by directing the customer to support, and avoids unsupported claims."
+  },
+  "2367914": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The response suggests checking tracking updates. While safe and grounded, it's slightly generic given the customer is confused by a specific email."
+  },
+  "2609240": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response appropriately acknowledges the shipping delays in Italian and directs the customer to customer service for further assistance."
+  },
+  "2703132": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly addresses the customer's difficulty finding chat support by pointing them to the contact page for available options."
+  },
+  "281954": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the customer's frustration with the cancellation process and directs them to support, which is appropriate, although it could be more specific."
+  },
+  "2830772": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response correctly acknowledges the customer's confirmation about items fulfilled by Amazon and directs them to customer service safely."
+  },
+  "2726815": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 3,
+    "historical_grounding": 2,
+    "reason": "The response incorrectly implies that a specialist team is already working on the issue, which pretends to investigate a specific customer case without account access."
+  },
+  "1005105": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 3,
+    "historical_grounding": 2,
+    "reason": "The response states that 'We're still looking into your concern', which falsely claims ongoing investigation/account access."
+  },
+  "280626": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response is in the correct language (Spanish) and acknowledges the issue, but telling them to contact customer service again is slightly unhelpful since the customer already had a terrible experience with support/carrier."
+  },
+  "2664066": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly addresses the payment frustration by suggesting Amazon gift cards as an alternative to credit cards. It is fully grounded, safe, and provides a helpful, actionable alternative."
+  },
+  "2790466": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response acknowledges the damaged item and directs the customer appropriately to return or replacement options. It is completely safe and properly grounded in standard customer service handling."
+  },
+  "850142": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response is in French matching the customer language, acknowledges the message, and directs them to customer support appropriately and safely."
+  },
+  "2255230": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses checkout and delivery time frustration, explicitly notes it doesn't need account-specific info, but asks the customer to share more details which is a standard polite escalation step."
+  },
+  "2524372": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Directly acknowledges the delivery failure and shipping partner problem, offering a specialist to look into it without falsely claiming direct access or making unauthorized promises."
+  },
+  "2826407": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately responds to a polite closing in Italian, matching the friendly and helpful tone of the customer message without making unsupported claims."
+  },
+  "2472509": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the delivery delay complaint, acknowledges the frustration, and gives a safe and actionable next step by directing the customer to support."
+  },
+  "2690663": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response acknowledges the specific frustrating delivery behavior and driver issue, offering a clear and safe escalation step to support."
+  },
+  "795721": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response directly addresses the customer's delivery dispute and frustration, providing an appropriate, safe, and helpful referral to support."
+  },
+  "1180560": {
+    "relevance": 3,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 3,
+    "historical_grounding": 3,
+    "reason": "The response offers a generic request ('Could you share more details...'), which borders on pretending to investigate or requesting sensitive details directly on Twitter, though it stops short of a severe safety violation."
+  },
+  "729221": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response appropriately addresses the customer's request in French, advises them not to share private login information publicly for security, and directs them to customer service."
+  },
+  "1786560": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response properly addresses a delivery failure by apologizing and directing the customer to support, maintaining safety and avoiding false claims."
+  },
+  "738378": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The model appropriately addresses the delivery delay, warns against sharing order details publicly, and directs the user to support safely."
+  },
+  "446780": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response matches the customer's Spanish language, addresses the delivery issue, and safely asks about tracking status without requesting personal info."
+  },
+  "2913233": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "The response is in French, acknowledges the delivery issue appropriately, and asks for carrier tracking status without making any unsafe assumptions or promises."
+  },
+  "30026": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response addresses the Prime Video inclusion nicely, but diverts payment questions for extra channels to customer support appropriately."
+  },
+  "67567": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Directly addresses the conflicting delivery info by advising the customer to rely on the most recent notification and keep support updated."
+  },
+  "737158": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Directly addresses the inaccessible link by asking for the specific error code/message to help troubleshoot further."
+  },
+  "656158": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "historical_grounding": 5,
+    "reason": "Appropriately apologizes for the wrong delivery location and safely routes the customer to support for account-specific investigation."
+  },
+  "2137909": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "Responds correctly in German, acknowledging the notification issue and directing the customer to support for help."
+  },
+  "1145926": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response directly addresses the customer's uncertainty regarding delivery and offers a standard path forward without fabricating any account details."
+  },
+  "1774583": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response appropriately acknowledges the customer's frustration with unhelpful support and directs them to standard channels like phone or live chat."
+  },
+  "2954320": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "historical_grounding": 4,
+    "reason": "The response properly addresses the delivery delay and asks relevant diagnostic questions without claiming account access or inventing tracking status."
+  },
+  "2586299": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "historical_grounding": 3,
+    "reason": "The response acknowledges the recurring subscription issue and suggests contacting support, though it is slightly generic given the customer's heavy frustration."
+  },
+  "514639": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 4,
+    "historical_grounding": 3,
+    "reason": "The response attempts to address the delay by suggesting the package may arrive the following business day based on historical evidence, but treating old policy statements as current policy slightly hurts its groundedness."
+  }
+}

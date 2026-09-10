@@ -1,0 +1,1002 @@
+{
+  "981467": {
+    "reply": "¡Hola! Puedes verificar más información sobre el contenido y la disponibilidad de las series en nuestro catálogo de Prime Video visitando nuestra página de ayuda oficial. ¡Saludos!",
+    "grounding": "Evidence 1 was used to guide the user to check Prime Video information resources.",
+    "response_confidence": 0.95
+  },
+  "2199056": {
+    "reply": "We'd like to help! Could you please let us know what specific error message or issue you are experiencing with Prime Video?",
+    "grounding": "Evidence 3 and Evidence 4 influenced asking for details about the streaming issue and login status.",
+    "response_confidence": 0.95
+  },
+  "1939024": {
+    "reply": "We appreciate your patience and are glad you finally got through! Please let us know if there is anything else we can assist you with.",
+    "grounding": "Evidence 2 and Evidence 4 influenced acknowledging the customer's update positively and offering further help.",
+    "response_confidence": 0.95
+  },
+  "1104387": {
+    "reply": "We're sorry for the trouble with availability. Are you trying to stream from a web browser or the app, and what device are you using?",
+    "grounding": "Evidence 2 influenced asking for the device and browser details when encountering availability errors.",
+    "response_confidence": 0.95
+  },
+  "1432324": {
+    "reply": "We're so sorry for the frustration regarding your replacement phone. Please reach out to us via our support page so we can look into this urgent matter for you.",
+    "grounding": "Evidence 1 inspired offering a direct link to customer support for an urgent issue.",
+    "response_confidence": 0.95
+  },
+  "1155096": {
+    "reply": "I'm sorry for the frustration with your delivery timeframe. Prime One-Day Shipping refers to the transit time once the item is dispatched. Please reach out to us via chat or phone so we can look into this for you.",
+    "grounding": "EVIDENCE 1 and EVIDENCE 5 influenced the response regarding transit time versus dispatch and the suggestion to contact support.",
+    "response_confidence": 0.95
+  },
+  "2925584": {
+    "reply": "Hola. Lamentamos mucho los inconvenientes con el servicio de entrega en tu zona. ¿Podrías indicarnos si tienes algún pedido pendiente con nosotros para poder ayudarte?",
+    "grounding": "EVIDENCE 2 and EVIDENCE 5 influenced the response by offering an apology and asking if there is a current pending order.",
+    "response_confidence": 0.95
+  },
+  "2457184": {
+    "reply": "I'm so sorry to hear about the frustration with your recent orders and returns. Without personal information, could you please contact our support team so we can look into this further and assist you?",
+    "grounding": "EVIDENCE 1 and EVIDENCE 3 influenced the response by addressing the poor experience and suggesting contacting support without sharing personal info.",
+    "response_confidence": 0.95
+  },
+  "545718": {
+    "reply": "I'm so sorry for the delay in following up with you regarding your Prime Video geo-restriction issue. Please reach out to our customer support team directly so we can look into your account and trial status.",
+    "grounding": "EVIDENCE 4 influenced the response by directing the customer to contact support for assistance with their account and trial.",
+    "response_confidence": 0.95
+  },
+  "134893": {
+    "reply": "ご迷惑をお掛けし申し訳ございません。お届けした商品や配送に問題があった場合は、返品・交換等の対応をさせていただきますので、カスタマーサービスまでお問い合わせください。",
+    "grounding": "EVIDENCE 2 influenced the response by addressing damaged item concerns and directing the customer to customer service for returns or exchanges.",
+    "response_confidence": 0.95
+  },
+  "150530": {
+    "reply": "Hallo! Bei Prime Video ausgeliehene Filme stehen dir nach dem Starten der Wiedergabe in der Regel 48 Stunden lang zur Verfügung. Wenn du weitere Hilfe benötigst, lass es uns gerne wissen! ^MH",
+    "grounding": "No specific evidence matched the digital rental policy question directly, so a standard concise policy reminder was provided based on general knowledge safely.",
+    "response_confidence": 0.95
+  },
+  "2971969": {
+    "reply": "I'm so sorry for the frustration and exhaustion this has caused you after a long day. We completely understand how upsetting it is to repeat steps. If you are open to letting us look into this further, please reach out to our support team directly so we can help sort this out.",
+    "grounding": "Evidence 1 and 2 influenced acknowledging the frustration and offering further assistance without making false account claims.",
+    "response_confidence": 0.9
+  },
+  "2089264": {
+    "reply": "I'm glad to hear that you got it sorted out with the help desk! If there's anything else you need in the future, we're always here to help.",
+    "grounding": "Evidence 1 influenced the response by acknowledging that the issue was already sorted out.",
+    "response_confidence": 0.98
+  },
+  "2474828": {
+    "reply": "Ravi de l'apprendre ! N'hésitez pas à nous recontacter si vous avez besoin d'aide pour le deuxième élément.",
+    "grounding": "Evidence 3 and 4 influenced acknowledging the customer's status with their support case.",
+    "response_confidence": 0.95
+  },
+  "2033234": {
+    "reply": "I am so sorry for the frustration regarding your pre-order. We would like to look into this more—could you tell us a bit more about what happened?",
+    "grounding": "Evidence 5 influenced asking for more details about the pre-order issue to offer appropriate help.",
+    "response_confidence": 0.95
+  },
+  "2930736": {
+    "reply": "Hi there! If your order is fulfilled by us and hasn't been dispatched yet, you can check if you're able to update the shipping details through your account's order page. ^PJ",
+    "grounding": "Evidence 3 informed the response regarding checking order details on the account page for un-dispatched items.",
+    "response_confidence": 0.95
+  },
+  "1262588": {
+    "reply": "I understand you're frustrated with the available delivery options. Since we cannot access your account via social media, please reach out to our support team so they can look into this for you. ^EM",
+    "grounding": "Evidence 2 influenced the response regarding the limitation of checking accounts via social media and directing the customer to support.",
+    "response_confidence": 0.95
+  },
+  "1474641": {
+    "reply": "I'm truly sorry for the poor experience with your delivery driver. Please reach out to our support team with the details so we can look into this further. ^JA",
+    "grounding": "Evidence 2 and Evidence 5 guided the apology and request for more details to investigate delivery complaints.",
+    "response_confidence": 0.95
+  },
+  "1367395": {
+    "reply": "I understand your concern about delivery availability. Please feel free to reach out to our support team so we can look into this for you. ^BA",
+    "grounding": "Evidence 5 influenced the response by acknowledging concerns and suggesting connection with support.",
+    "response_confidence": 0.95
+  },
+  "1355352": {
+    "reply": "Gern geschehen! Schön, dass es auf der Xbox klappt. Falls doch noch etwas ist, melde dich einfach wieder. ^MS",
+    "grounding": "Evidence 4 influenced the tone of acknowledging customer feedback and closing the conversation positively.",
+    "response_confidence": 0.95
+  },
+  "729023": {
+    "reply": "I'm sorry for the trouble with your delivery. Please reach out to our support team so we can look into this for you.",
+    "grounding": "Evidence 5 inspired offering a link to report a missing order.",
+    "response_confidence": 0.95
+  },
+  "842170": {
+    "reply": "We'd like to look into this with you. Please reach out to our support team for further assistance.",
+    "grounding": "Evidence 4 inspired offering a support contact link for further help.",
+    "response_confidence": 0.95
+  },
+  "121148": {
+    "reply": "Thanks for the shout-out! We're glad you're enjoying it.",
+    "grounding": "Evidence 5 inspired a friendly acknowledgment of positive feedback.",
+    "response_confidence": 0.98
+  },
+  "255094": {
+    "reply": "I'm sorry you're having trouble streaming in HD. What device are you using to watch?",
+    "grounding": "Evidence 3 inspired asking for the device being used when experiencing streaming issues.",
+    "response_confidence": 0.95
+  },
+  "1050392": {
+    "reply": "I'm sorry for any frustration with your pre-ordered items. We aim to meet our estimated delivery dates, but please let us know if it hasn't arrived by then.",
+    "grounding": "Evidence 5 inspired addressing concerns about delivery dates for pending orders.",
+    "response_confidence": 0.95
+  },
+  "2774138": {
+    "reply": "We apologize for the frustration. Please note that we cannot discuss order or account details publicly here on Twitter for your privacy. Please reach out to our support team directly so we can look into your order and assist you further.",
+    "grounding": "Evidence 1 and 2 show agents advising customers not to share personal order details publicly and offering assistance through direct support channels.",
+    "response_confidence": 0.95
+  },
+  "2069828": {
+    "reply": "Thanks for sharing your thoughts with us! I'll be sure to pass your feedback along to the relevant team regarding product availability and Prime Pantry options.",
+    "grounding": "Evidence 2 demonstrates passing customer feedback about Prime Pantry exclusive items to the internal team.",
+    "response_confidence": 0.96
+  },
+  "323292": {
+    "reply": "Nous sommes désolés pour la gêne occasionnée. N'ayant pas accès à votre compte depuis Twitter, nous vous invitons à contacter notre service client par téléphone ou par chat pour obtenir une aide immédiate.",
+    "grounding": "Evidence 1 highlights that agents do not have access to accounts via Twitter and direct customers to contact customer service by phone or chat.",
+    "response_confidence": 0.95
+  },
+  "425053": {
+    "reply": "I'm sorry to hear about your frustrating delivery experience with your Prime order. We would like to look into this further and gather carrier feedback—please reach out to our support team so we can assist.",
+    "grounding": "Evidence 2 and 4 influenced this response by showing empathy regarding late deliveries and offering a way to provide carrier feedback and investigate further.",
+    "response_confidence": 0.95
+  },
+  "1380607": {
+    "reply": "I'm sorry for the delay! Please keep in mind that expedited shipping transit times apply once the item actually ships out. If you'd like us to look into your specific order, please reach out to our support team.",
+    "grounding": "Evidence 5 explains that shipping times refer to transit time once an item ships, and Evidence 4 suggests offering further review options through support.",
+    "response_confidence": 0.95
+  },
+  "1145003": {
+    "reply": "We are sorry to hear about the trouble with your order. Since it is fulfilled by Amazon for a third-party seller, please reach out to our support team so we can assist you with your return options.",
+    "grounding": "Evidence 4 demonstrates explaining third-party fulfillment and recommending a return option.",
+    "response_confidence": 0.95
+  },
+  "89225": {
+    "reply": "Bonjour, navrée pour ce désagrément. Rencontrez-vous un problème particulier avec un service ou une commande ?",
+    "grounding": "Evidence 2 and 4 influenced asking about ongoing issues or delivery problems in French.",
+    "response_confidence": 0.92
+  },
+  "2768262": {
+    "reply": "Bonjour ! Nous serons attentifs. N'hésitez pas à nous faire signe si vous avez besoin d'aide par la suite.",
+    "grounding": "Evidence 3 and 5 influenced a friendly and casual acknowledgment suitable for a video mention.",
+    "response_confidence": 0.94
+  },
+  "947272": {
+    "reply": "We are sorry for the ongoing frustration with your query. Please connect with our support team so we can look into this further for you.",
+    "grounding": "Evidence 3 and 5 influenced directing the customer to connect with support for unresolved queries.",
+    "response_confidence": 0.96
+  },
+  "1328913": {
+    "reply": "Glad to hear you got that sorted out! Let us know if there is anything else we can help you with.",
+    "grounding": "Evidence 3 and 4 influenced responding to positive feedback and offering further assistance.",
+    "response_confidence": 0.98
+  },
+  "2429453": {
+    "reply": "Bonjour, nous sommes désolés d'apprendre cela. Pourriez-vous nous en dire plus sur le problème rencontré avec votre livraison ?",
+    "grounding": "Evidence 1 and Evidence 4 show empathetic acknowledgment of delivery and customer service issues.",
+    "response_confidence": 0.95
+  },
+  "2410474": {
+    "reply": "¿Recibiste algún correo electrónico informándote sobre el bloqueo y los pasos a seguir para solucionarlo?",
+    "grounding": "Evidence 3 directly addresses an account block and asks if the customer received an informational email.",
+    "response_confidence": 0.95
+  },
+  "745054": {
+    "reply": "Sorry to hear that! Is the item from a Prime eligible seller, and does the account you're logged into have Prime?",
+    "grounding": "Evidence 2 asks about Prime eligibility for the seller and account.",
+    "response_confidence": 0.95
+  },
+  "287905": {
+    "reply": "We understand this is frustrating. We cannot speculate on a specific timeline, but please be assured we'll get back to you as soon as possible.",
+    "grounding": "Evidence 2 and Evidence 3 discuss not speculating on timelines while assuring a response.",
+    "response_confidence": 0.95
+  },
+  "181153": {
+    "reply": "Dann wende dich bitte an unseren Kundenservice, damit der Fall noch einmal geprüft werden kann. Direkt über Twitter ist das leider nicht möglich.",
+    "grounding": "Evidence 5 suggests contacting support via the appropriate channel as account locks cannot be directly reviewed on Twitter.",
+    "response_confidence": 0.95
+  },
+  "2072980": {
+    "reply": "Sinto muito por essa situação. Como não temos acesso à conta por aqui, por favor, entre em contato com o nosso suporte através do site para que possamos ajudar da melhor forma.",
+    "grounding": "Evidence 4 and 5 inspired the reminder that account access is limited and suggested contacting support properly.",
+    "response_confidence": 0.95
+  },
+  "535164": {
+    "reply": "I'm sorry to hear that your order arrived damaged and unsealed. Please check your order history to initiate a return or replacement.",
+    "grounding": "Evidence 1 and 4 regarding damaged or unsealed items and replacement/feedback procedures.",
+    "response_confidence": 0.95
+  },
+  "2741835": {
+    "reply": "I'm so sorry your order was canceled! Please check your registered email or message center for more details regarding the cancellation, and feel free to reach out to our support team for further assistance.",
+    "grounding": "Evidence 4 and 5 regarding order cancellations and checking emails/message centers.",
+    "response_confidence": 0.95
+  },
+  "230829": {
+    "reply": "ご心配をおかけしております。お届け予定日をご確認いただき、お時間がかかる場合は注文履歴やヘルプページをご参考にご確認いただけますようお願いいたします。",
+    "grounding": "Evidence 1 and 4 regarding checking delivery status and help pages.",
+    "response_confidence": 0.95
+  },
+  "2551067": {
+    "reply": "I'm sorry for the frustration and the poor experience with your gift card and account. Did you receive an email from our account specialists with more information?",
+    "grounding": "Evidence 4 influenced the empathetic tone and checking for communication from account specialists.",
+    "response_confidence": 0.95
+  },
+  "149219": {
+    "reply": "Es tut uns leid zu hören, dass du so lange warten musstest. Lass uns das gerne genauer ansehen, kontaktiere uns dazu bitte über unseren Kundenservice.",
+    "grounding": "Evidence 1 and 2 show acknowledging complaints and directing to support channels.",
+    "response_confidence": 0.95
+  },
+  "311574": {
+    "reply": "You're very welcome! Do let us know if you need any further assistance.",
+    "grounding": "Evidence 2 and 5 show appropriate responses when a customer says thanks or that something helped.",
+    "response_confidence": 0.98
+  },
+  "676916": {
+    "reply": "Thanks for sharing that information with us. Please reach out to our support team so we can investigate the delivery issue further.",
+    "grounding": "Evidence 1, 3, and 5 guided the agent to ask the customer to contact support for carrier-related escalations.",
+    "response_confidence": 0.95
+  },
+  "1137938": {
+    "reply": "Could you kindly share the name of the promotion tied to your order? That will help us look into it and guide you properly.",
+    "grounding": "Evidence 1 inspired asking about the specific promotion tied to the order.",
+    "response_confidence": 0.96
+  },
+  "2870625": {
+    "reply": "I am so sorry for the frustration with your delivery! Have you received any updates or emails from us regarding the reason for the delay?",
+    "grounding": "Evidence 4 influenced asking whether an email about the delay was received.",
+    "response_confidence": 0.95
+  },
+  "290449": {
+    "reply": "I'm sorry you're waiting on your delivery! Deliveries can typically arrive up until 8:00 or 9:00 PM. Please let us know if it hasn't arrived by then.",
+    "grounding": "Evidence 1 and Evidence 4 show advising customers to wait until the end of the day or reach out if it doesn't arrive by the given time.",
+    "response_confidence": 0.95
+  },
+  "470840": {
+    "reply": "Bonjour, je suis désolé pour cette situation. Je vous invite à contacter notre service client pour obtenir de l'aide concernant votre commande.",
+    "grounding": "Evidence 2 and Evidence 3 show advising customers to contact customer service or fill out a support form regarding issues.",
+    "response_confidence": 0.95
+  },
+  "1506840": {
+    "reply": "ご心配をおかけしております。ブラウザのキャッシュをクリアするか、時間をおいて再度お試しいただけますでしょうか。",
+    "grounding": "Evidence 2 and Evidence 3 demonstrate addressing user concerns and pointing them to help resources.",
+    "response_confidence": 0.9
+  },
+  "2958620": {
+    "reply": "I'm sorry for the delay with your delivery! Couriers can deliver up until 9:00 PM. Please let us know if your package doesn't arrive by then.",
+    "grounding": "Evidence 4 and Evidence 5 show responding to delayed deliveries with courier timeframes and offering further support.",
+    "response_confidence": 0.95
+  },
+  "25261": {
+    "reply": "Yes! Amazon Prime membership includes streaming of Prime Video at no additional monthly charge. Let us know if you have any trouble accessing it.",
+    "grounding": "Evidence 1 and Evidence 2 discuss Prime video membership benefits included with Prime.",
+    "response_confidence": 0.95
+  },
+  "384537": {
+    "reply": "We'd like to look into this checkout issue further with you. Please reach out to our support team so we can help! ^SD",
+    "grounding": "Evidence 1 was used to guide directing the customer to contact support for a checkout/investigation issue.",
+    "response_confidence": 0.95
+  },
+  "1560589": {
+    "reply": "We're sorry for the frustration with your locker delivery code! Have you checked your spam or junk folder for the email containing your code?",
+    "grounding": "Evidence 1 and 2 influenced suggesting checking the spam/junk folder for the locker collection code email.",
+    "response_confidence": 0.98
+  },
+  "833942": {
+    "reply": "Thanks for sharing your feedback about the app experience. We'll be sure to pass it along to the appropriate team!",
+    "grounding": "Evidence 1 influenced taking the customer's feedback and passing it on to the relevant department.",
+    "response_confidence": 0.96
+  },
+  "629631": {
+    "reply": "Danke für deine Rückmeldung! Wir hoffen, dass deine Lieferung bald bei dir eintrifft. Sag uns Bescheid, falls du noch Hilfe brauchst!",
+    "grounding": "Evidence 3 and general polite German customer support phrasing inspired the acknowledgment.",
+    "response_confidence": 0.92
+  },
+  "792095": {
+    "reply": "We completely understand your concern. Please reach out to our customer support team directly so we can look into this further for you.",
+    "grounding": "Evidence 2 influenced directing the customer to reach out to support to look further into the account/credit concern.",
+    "response_confidence": 0.95
+  },
+  "2733901": {
+    "reply": "I'm sorry for the frustration with your delivery. Please reach out to our support team so we can take a closer look at this for you.",
+    "grounding": "Evidence 2 and 5 influenced suggesting reaching out to customer support to investigate the delivery issue.",
+    "response_confidence": 0.95
+  },
+  "1557714": {
+    "reply": "Je suis navré pour ce souci de livraison. N'hésitez pas à contacter notre service client pour que nous puissions vérifier cela ensemble.",
+    "grounding": "Evidence 2 influenced offering a polite apology and directing the customer to contact support regarding a delivery issue.",
+    "response_confidence": 0.95
+  },
+  "975699": {
+    "reply": "ご迷惑をおかけしております。ご注文履歴や発送メールより伝票番号をご確認の上、配送業者へ直接お問い合わせいただくか、カスタマーサービスまでご連絡ください。",
+    "grounding": "Evidence 2 influenced suggesting checking tracking details via the order history and contacting the delivery carrier.",
+    "response_confidence": 0.95
+  },
+  "793818": {
+    "reply": "Entiendo tu espera. Por favor, indícanos más detalles sobre tu consulta para poder ayudarte de la mejor manera.",
+    "grounding": "Evidence 3 and general polite support patterns influenced asking for more details to continue assistance.",
+    "response_confidence": 0.95
+  },
+  "836887": {
+    "reply": "We would like to take a closer look at this for you. Please reach out to our support team with more details so we can assist.",
+    "grounding": "Evidence 1 and 5 influenced offering a closer look and directing the customer to contact support.",
+    "response_confidence": 0.95
+  },
+  "2111167": {
+    "reply": "I understand your concern about ensuring the driver contacts you. When you spoke with our support team, were you able to confirm delivery arrangements or update your delivery instructions?",
+    "grounding": "Evidence 1 was used to shape a clarifying question about prior contact with support regarding delivery details.",
+    "response_confidence": 0.95
+  },
+  "2074021": {
+    "reply": "ご不便をおかけしており申し訳ございません。お手数ですが、アカウントサービスやサポートページより改めて詳細をお問い合わせいただけますでしょうか。",
+    "grounding": "Evidence 1 and 4 inspired directing the user to check their account service and contact support.",
+    "response_confidence": 0.95
+  },
+  "1100553": {
+    "reply": "Hola, gracias por compartir tu opinión sobre los precios. ¿Hay algo más en lo que podamos ayudarte hoy?",
+    "grounding": "Evidence 4 and similar polite conversational engagement patterns inspired a friendly check-in.",
+    "response_confidence": 0.9
+  },
+  "975729": {
+    "reply": "I understand your concern regarding pricing and responsibility. I will ensure your feedback is forwarded to the appropriate team internally.",
+    "grounding": "Evidence 1 influenced forwarding feedback to the appropriate team.",
+    "response_confidence": 0.95
+  },
+  "807350": {
+    "reply": "I'm sorry for the trouble you're experiencing with these messages when you don't have a seller account. Could you please reach out to our support team so we can look into this for you?",
+    "grounding": "Evidence 3 and Evidence 5 guided addressing the lack of response and directing the user to support safely without asking for private info.",
+    "response_confidence": 0.95
+  },
+  "2641334": {
+    "reply": "We understand you are eager to know the results. Winners will be notified via email once the results are officially announced. Please stay tuned for updates.",
+    "grounding": "Evidence 4 shows winners are notified via email once announced, and Evidence 1/3 show asking customers to stay tuned.",
+    "response_confidence": 0.95
+  },
+  "984115": {
+    "reply": "Thank you for sharing your feedback with us. We will be sure to pass your request along internally to the appropriate team for review.",
+    "grounding": "Evidence 3, 4, and 5 show passing feedback regarding language support to the internal team.",
+    "response_confidence": 0.95
+  },
+  "1209042": {
+    "reply": "We are very sorry to hear about your frustrating experience with our support and replacement process. Please reach out to our dedicated support team through our help pages so we can assist you further.",
+    "grounding": "Evidence 4 and 5 guide frustrated customers to reach out to support via the help links.",
+    "response_confidence": 0.93
+  },
+  "842234": {
+    "reply": "N'hésitez pas à nous tenir au courant si vous avez besoin d'aide supplémentaire !",
+    "grounding": "Evidence 5 provides a polite closing statement acknowledging ongoing conversation.",
+    "response_confidence": 0.9
+  },
+  "1622175": {
+    "reply": "We understand your concern regarding the delivery and mailbox requirements. Please let us know if your order doesn't arrive by the end of the day so we can assist you further.",
+    "grounding": "Evidence 4 advises monitoring delivery by the end of the day, and Evidence 2 suggests contacting support for options.",
+    "response_confidence": 0.92
+  },
+  "1409074": {
+    "reply": "We are sorry to hear about your experience with the pricing. We try to ensure that the MRP on the website matches the product delivered. Please reach out to our support team so we can look into this for you.",
+    "grounding": "Informed by Evidence 4 regarding MRP matching website and product, and Evidence 5 regarding forwarding feedback.",
+    "response_confidence": 0.95
+  },
+  "420447": {
+    "reply": "Please remove your phone number for your privacy, as this is a public page. For assistance with your account or order, please reach out through our secure support channels.",
+    "grounding": "Informed by Evidence 1 and Evidence 4 regarding advising customers not to share personal contact details publicly.",
+    "response_confidence": 0.98
+  },
+  "2612267": {
+    "reply": "We are very sorry for the delay and the frustration regarding your next-day delivery. Without sharing any personal or account details, please reach out to our support team so we can help.",
+    "grounding": "Informed by Evidence 1 and Evidence 5 advising customers to reach out without providing personal information.",
+    "response_confidence": 0.96
+  },
+  "2985519": {
+    "reply": "Thank you for the wonderful feedback! We're so glad we could take good care of you. Please let us know if we can assist you further.",
+    "grounding": "Informed by Evidence 2 and Evidence 4 expressing gratitude for positive customer feedback.",
+    "response_confidence": 0.99
+  },
+  "2877043": {
+    "reply": "We are so sorry to hear that your birthday package arrived empty! Please reach out to our support team so we can investigate this issue for you.",
+    "grounding": "Informed by Evidence 1 where a customer received an empty box and support offered an investigation via contact links.",
+    "response_confidence": 0.97
+  },
+  "2939013": {
+    "reply": "Grazie per il contatto! Se hai bisogno di ulteriore assistenza, faccelo sapere. 😉",
+    "grounding": "Evidence 4 demonstrates a friendly Italian/Portuguese response format acknowledging customer appreciation or casual engagement.",
+    "response_confidence": 0.95
+  },
+  "985097": {
+    "reply": "I'm sorry for any confusion regarding your order status. We don't have access to your account via Twitter, but please reach out to our support team so we can look into this for you.",
+    "grounding": "Evidence 4 and 5 highlight informing customers that direct account access isn't available via social media and directing them to official support channels.",
+    "response_confidence": 0.98
+  },
+  "331237": {
+    "reply": "We're glad you're looking forward to watching it! Enjoy the movie and let us know if you need any further help.",
+    "grounding": "Evidence 4 demonstrates friendly positive engagement when a customer expresses excitement about watching something.",
+    "response_confidence": 0.96
+  },
+  "693873": {
+    "reply": "I'm sorry for the confusion and delay with your international shipment! When you have a moment, please reach out to our support team so we can investigate this with our logistics partners.",
+    "grounding": "Evidence 1 and 2 involve logistics and delivery delay handling by referring customers to support for further investigation.",
+    "response_confidence": 0.95
+  },
+  "812374": {
+    "reply": "We love hearing that! We're glad your items are arriving sooner than expected. Enjoy!",
+    "grounding": "Evidence 4 and general positive support style inform a friendly, appreciative response to customer satisfaction.",
+    "response_confidence": 0.99
+  },
+  "279369": {
+    "reply": "Thanks for reaching out! If you have already shared your details with our support team, they are looking into it and will follow up with you soon.",
+    "grounding": "Evidence 1 and 2 influenced the response by acknowledging that the team is working on the case once details are provided.",
+    "response_confidence": 0.95
+  },
+  "2680825": {
+    "reply": "I completely understand how important this delivery is, especially for such a special occasion. We want to make sure it arrives as soon as possible.",
+    "grounding": "Evidence 3 influenced the response by addressing the urgency of the delivery promise.",
+    "response_confidence": 0.95
+  },
+  "348550": {
+    "reply": "You're very welcome! Please let us know if you need any further assistance.",
+    "grounding": "Evidence 3 and 5 influenced the response by offering a polite and friendly acknowledgment of the customer's appreciation.",
+    "response_confidence": 0.98
+  },
+  "2604933": {
+    "reply": "I understand your frustration with the wait. Since an investigation is already underway, our team will follow up with you as soon as there is an update.",
+    "grounding": "Evidence 5 influenced the response by acknowledging an ongoing investigation.",
+    "response_confidence": 0.95
+  },
+  "2390428": {
+    "reply": "¡Qué bueno escuchar eso! Nos alegra mucho saber que recibiste tu pedido tan rápido. ¡Que lo disfrutes!",
+    "grounding": "Evidence 3 influenced the response by providing a friendly, positive reply in Spanish matching the customer's positive feedback about fast delivery.",
+    "response_confidence": 0.98
+  },
+  "2679212": {
+    "reply": "Hola. Sin compartir información sensible, ¿podrías comentarnos qué sucedió para poder ayudarte?",
+    "grounding": "Evidence 3 inspired the Spanish greeting and request for details without sharing sensitive info.",
+    "response_confidence": 0.95
+  },
+  "1433644": {
+    "reply": "We're sorry for the frustration with your order and payment. Please reach out to our support team directly so we can look into this for you.",
+    "grounding": "Evidence 1 and 5 guided the empathetic tone and recommendation to contact support regarding order and payment issues.",
+    "response_confidence": 0.92
+  },
+  "914147": {
+    "reply": "We apologize for the delay and the wait. Without sharing any personal information, please reach out to our support team so we can help resolve this.",
+    "grounding": "Evidence 1 and 2 regarding handling customer frustration over delays and directing them safely.",
+    "response_confidence": 0.94
+  },
+  "994227": {
+    "reply": "We're sorry to see this! Without posting any personal or account info, can you tell us a bit more about the issue so we can help?",
+    "grounding": "Evidence 5 inspired asking for more details safely without sharing personal information.",
+    "response_confidence": 0.95
+  },
+  "2827203": {
+    "reply": "Bonjour, je suis désolé pour ce problème. N'hésitez pas à contacter notre service client pour que nous puissions vous aider.",
+    "grounding": "Evidence 2 and 5 provided the pattern for responding in French to contact customer support.",
+    "response_confidence": 0.93
+  },
+  "2718526": {
+    "reply": "@40522891300737900 We're sorry for the disappointment with your order and the return process. Please reach out to our support team so we can look into this and assist you further.",
+    "grounding": "Evidence 1 and 2 influenced suggesting reaching out to support.",
+    "response_confidence": 0.95
+  },
+  "416675": {
+    "reply": "@AmazonHelp We're sorry you're having trouble signing in. Have you tried resetting your password or clearing your browser's cache and cookies? Please reach out to our support team if the issue persists.",
+    "grounding": "Evidence 4 and 5 influenced suggesting password reset and contacting support for account issues.",
+    "response_confidence": 0.96
+  },
+  "1117976": {
+    "reply": "@115850 We're sorry for the frustration regarding your Cash on Delivery status. Please reach out to our support team so we can look into this for you.",
+    "grounding": "Evidence 1 and 5 influenced suggesting contacting support for COD issues.",
+    "response_confidence": 0.95
+  },
+  "2534511": {
+    "reply": "@AmazonHelp We'd like to take a closer look into this with you. Please reach out to our support team directly so an agent can assist you further.",
+    "grounding": "Evidence 2 and 3 influenced suggesting reaching out to support for persistent technical issues.",
+    "response_confidence": 0.95
+  },
+  "432317": {
+    "reply": "@AmazonHelp We apologize for the delay and any frustration caused regarding your delivery. Please allow our team a little more time to reach out to you with an update.",
+    "grounding": "Evidence 1 influenced acknowledging delivery delay and asking the customer to wait for support.",
+    "response_confidence": 0.94
+  },
+  "2600817": {
+    "reply": "Amazonプライムの自動更新についてご不便をおかけし申し訳ありません。有料会員移行後に特典のご利用がない場合はキャンセルと返金を承ることができますので、詳細や手続きについてヘルプページをご確認ください。",
+    "grounding": "Evidence 1 and Evidence 2 show how support handles accidental prime renewals by noting that refunds are possible if benefits haven't been used.",
+    "response_confidence": 0.95
+  },
+  "385325": {
+    "reply": "We apologize for the delay in getting back to you. Please feel free to share your details with us in a direct message so we can check on this and assist you further. ^SB",
+    "grounding": "Evidence 1 and Evidence 5 influenced the response by asking the customer for details and offering assistance regarding a lack of response.",
+    "response_confidence": 0.95
+  },
+  "849774": {
+    "reply": "We are very sorry for the frustration with the follow-up. Please reach out to our support team directly so we can look into this further and help get it resolved. ^NR",
+    "grounding": "Evidence 1 and Evidence 4 influenced the response by addressing communication frustrations and directing the customer to connect with support.",
+    "response_confidence": 0.95
+  },
+  "843528": {
+    "reply": "Lamentamos los retrasos y las molestias ocasionadas. Cuando el pedido esté disponible para el envío, serás notificado con la actualización correspondiente. ^HC",
+    "grounding": "Evidence 2 influenced the response by explaining that customers are informed when an item pending shipment becomes available.",
+    "response_confidence": 0.95
+  },
+  "2262300": {
+    "reply": "We're glad to hear that Thaddeus was able to help! Please let us know if you need any further assistance once your delivery arrives. ^KL",
+    "grounding": "Evidence 2 influenced the response by expressing gladness that a positive outcome or delivery occurred and offering further help.",
+    "response_confidence": 0.95
+  },
+  "1306038": {
+    "reply": "We're glad to hear that your return and refund are in progress. Thank you for keeping us updated, and please let us know if you need any further assistance! ^SB",
+    "grounding": "Evidence 1 and Evidence 2 were used to structure a friendly acknowledgment of a refund/return status update.",
+    "response_confidence": 0.95
+  },
+  "282737": {
+    "reply": "このたびは、ご迷惑をおかけし申し訳ございません。本件についてご注文いただいたお客様に後日ご連絡を行わせていただきますため、そのご連絡をお待ちいただきますようお願いいたします。 HM",
+    "grounding": "Evidence 1, 3, and 5 were used to address delivery issues and pending follow-ups regarding the specific item.",
+    "response_confidence": 0.95
+  },
+  "2752411": {
+    "reply": "We'd love to help look into this for you. Please reach out to our support team via phone or chat for real-time assistance. ^BE",
+    "grounding": "Evidence 1 and Evidence 5 were used to guide the customer to real-time troubleshooting options.",
+    "response_confidence": 0.95
+  },
+  "1470350": {
+    "reply": "Nous sommes désolés pour cette expérience. N'hésitez pas à nous contacter directement sur notre site pour toute question concernant vos paiements ou commandes. ^SA",
+    "grounding": "Evidence 4 and Evidence 5 inspired directing the user to the support site for assistance.",
+    "response_confidence": 0.9
+  },
+  "379393": {
+    "reply": "Je comprends votre situation, et j'en suis navrée. Nous ne manquerons pas de remonter l'information auprès de nos services pour que cela ne se reproduise plus. ^FT",
+    "grounding": "Evidence 1 was used to address a customer service complaint and acknowledge feedback for service improvement.",
+    "response_confidence": 0.95
+  },
+  "1200325": {
+    "reply": "I understand your concern about delivery safety. If you've experienced any issues with a delivery, please reach out to us directly so we can look into it.",
+    "grounding": "Evidence 1 and 2 influenced the response by addressing worries about driver behavior and offering a prompt to contact support safely.",
+    "response_confidence": 0.95
+  },
+  "465085": {
+    "reply": "That sounds adorable! Let us know if you need any help with your orders today.",
+    "grounding": "Evidence 2 and 5 influenced a friendly tone while acknowledging the lighthearted nature of the tweet.",
+    "response_confidence": 0.92
+  },
+  "478564": {
+    "reply": "I'm sorry about the frustration regarding your refund. Please reach out to our support team without sharing personal details publicly so we can look into this.",
+    "grounding": "Evidence 1 and 5 influenced the response by warning against sharing sensitive personal details in public while addressing refund frustrations.",
+    "response_confidence": 0.96
+  },
+  "2766316": {
+    "reply": "Could you please let us know a bit more about the pin-code issue you are experiencing so we can share your feedback with our team?",
+    "grounding": "Evidence 2 and 3 influenced the response by asking the customer for more details about the specific pin-code problem.",
+    "response_confidence": 0.94
+  },
+  "2336104": {
+    "reply": "I'm sorry to hear you've had a poor experience. Could you tell us a little more about what's going on without sharing personal or account information?",
+    "grounding": "Evidence 1 and 4 influenced the response by apologizing for a poor experience and asking for details while advising against sharing account info.",
+    "response_confidence": 0.97
+  },
+  "1832097": {
+    "reply": "We're sorry for the delay with your delivery! Two-Day Shipping refers to transit time in business days. Please reach out to customer support if you need further assistance with your order.",
+    "grounding": "Evidence 3 and 5 influenced the response regarding business days and checking delivery status.",
+    "response_confidence": 0.95
+  },
+  "1578401": {
+    "reply": "We apologize for the delay with your pre-order. We understand your frustration and will share your feedback internally.",
+    "grounding": "Evidence 2 and 3 influenced the response acknowledging pre-order disappointment and forwarding feedback.",
+    "response_confidence": 0.95
+  },
+  "2915800": {
+    "reply": "Obrigado por compartilhar! Esperamos que aproveite a leitura. Se precisar de ajuda com qualquer pedido, fale com o nosso suporte.",
+    "grounding": "Evidence 1 and 2 influenced the friendly, conversational tone acknowledging the user's excitement.",
+    "response_confidence": 0.95
+  },
+  "2612337": {
+    "reply": "Thanks for the update letting us know you received the item. Please contact customer support so they can assist you with your refund status.",
+    "grounding": "Evidence 3 and 5 influenced the response acknowledging the update and advising contact with support.",
+    "response_confidence": 0.95
+  },
+  "2971977": {
+    "reply": "プライムナウをご利用いただきありがとうございます！快適にお楽しみいただければ幸いです。",
+    "grounding": "Evidence 1 and 4 influenced the positive, polite tone wishing the customer enjoyment.",
+    "response_confidence": 0.95
+  },
+  "1364740": {
+    "reply": "We apologize for any confusion. Please reply to the email sent by our support team so we can assist you further.",
+    "grounding": "Evidence 1 influenced the response by suggesting a reply to the ongoing email thread with the support team.",
+    "response_confidence": 0.95
+  },
+  "145688": {
+    "reply": "We're sorry for the delay with your next-day delivery. Could you please share the estimated delivery date shown during checkout?",
+    "grounding": "Evidence 5 inspired asking for the estimated delivery date provided at checkout.",
+    "response_confidence": 0.95
+  },
+  "734643": {
+    "reply": "We're sorry for the trouble signing in. At the bottom of the sign-in box, you can click the 'skip sign-in' link to proceed.",
+    "grounding": "Evidence 2 and Evidence 4 influenced using the 'skip sign-in' option when login fails.",
+    "response_confidence": 0.95
+  },
+  "2540319": {
+    "reply": "Avec plaisir ! J'espère que tout se passera bien avec la poste demain. N'hésitez pas si vous avez besoin d'autre chose.",
+    "grounding": "Evidence 2 influenced the friendly, polite closing tone in French.",
+    "response_confidence": 0.95
+  },
+  "423003": {
+    "reply": "We apologize for the frustration. Please check your inbox or spam folders for recent correspondence from our team so we can get this resolved.",
+    "grounding": "Evidence 2 influenced checking inbox and spam folders for previous support messages.",
+    "response_confidence": 0.95
+  },
+  "970583": {
+    "reply": "I'm sorry you haven't received a call yet. Please check your registered email for any correspondence from our team and respond to it, and we'll reach out to you soon.",
+    "grounding": "Evidence 5 inspired asking the customer to check latest correspondence and respond to it.",
+    "response_confidence": 0.95
+  },
+  "1136233": {
+    "reply": "I'm sorry about the trouble with your review. Can you clarify if your review followed our Community Guidelines?",
+    "grounding": "Evidence 3 influenced asking if the review followed community guidelines.",
+    "response_confidence": 0.95
+  },
+  "1237563": {
+    "reply": "I'm sorry to hear about your delivery experience. Please let us know if your package doesn't arrive tomorrow, or reach out to our support team for further assistance.",
+    "grounding": "Evidence 1 and 3 influenced advising the customer to check if it arrives later and to contact support if needed.",
+    "response_confidence": 0.95
+  },
+  "1114375": {
+    "reply": "I'm sorry to hear that your order hasn't arrived yet! Was this item shipped or sold by Amazon or a third-party seller?",
+    "grounding": "Evidence 3 influenced asking whether the item was shipped or sold by Amazon or a third-party seller.",
+    "response_confidence": 0.95
+  },
+  "1791181": {
+    "reply": "Thanks for confirming. If you need further assistance with your account balance, please reach out to our support team so we can take a closer look.",
+    "grounding": "Evidence 1 influenced suggesting to contact support for a closer look.",
+    "response_confidence": 0.95
+  },
+  "1426202": {
+    "reply": "Sorry for the frustration regarding your experience. Please reach out to our customer support team for further assistance with your concerns.",
+    "grounding": "Evidence 3 and Evidence 5 influenced the response by addressing unpleasant experiences and suggesting contacting support.",
+    "response_confidence": 0.95
+  },
+  "2864719": {
+    "reply": "ご利用ありがとうございます！Amazonプライムをぜひたくさんご活用くださいね。",
+    "grounding": "Evidence 5 influenced the response by thanking the customer for using Amazon Prime services.",
+    "response_confidence": 0.98
+  },
+  "701436": {
+    "reply": "Es tut uns leid zu hören, dass dein Paket noch nicht da ist. Da wir hier über Twitter keinen Zugriff auf dein Kundenkonto haben, wende dich bitte an unseren Kundenservice, der dir gerne weiterhilft.",
+    "grounding": "Evidence 2 influenced the response by explaining lack of account access via Twitter and directing the customer to customer service.",
+    "response_confidence": 0.97
+  },
+  "2405151": {
+    "reply": "If your email is not linked to an Amazon account and you received a suspicious message, please do not click any links. You can check our online resources for tips on how to identify and report phishing emails safely.",
+    "grounding": "Evidence 1 and Evidence 2 influenced the response by providing safety guidance regarding suspicious emails.",
+    "response_confidence": 0.96
+  },
+  "281159": {
+    "reply": "貴重なご意見をお寄せいただき、ありがとうございます。いただいたご要望は担当部署へ伝えさせていただきます。",
+    "grounding": "Evidence 1 influenced the response by thanking the customer for their valuable feedback and noting it will be shared with the relevant department.",
+    "response_confidence": 0.98
+  },
+  "2276362": {
+    "reply": "We are sorry for the continued trouble with your orders and receiving the wrong color. Please reach out to our support team so we can look into this for you.",
+    "grounding": "Evidence 1, 2, and 3 influenced the response by acknowledging delivery and item issues and directing the customer to support.",
+    "response_confidence": 0.95
+  },
+  "2725020": {
+    "reply": "No problem! Please reach out if you need any further help. Have a great day!",
+    "grounding": "Evidence 1, 3, and 4 influenced the response by showing polite acknowledgment of a resolved issue and offering future assistance.",
+    "response_confidence": 0.98
+  },
+  "2840225": {
+    "reply": "I'm so sorry to hear about the trouble with your recent deliveries. Please reach out to our support team so we can take a closer look and help sort this out.",
+    "grounding": "Evidence 1, 3, and 5 influenced the response by expressing empathy over delivery issues and prompting the customer for more details.",
+    "response_confidence": 0.96
+  },
+  "2361839": {
+    "reply": "That's definitely not the experience we want you to have. Without sharing personal details, could you tell us more about what happened so we can help?",
+    "grounding": "Evidence 2 and 5 influenced the response by addressing customer service complaints without asking for personal information.",
+    "response_confidence": 0.97
+  },
+  "1618370": {
+    "reply": "I'm sorry for the delay with your refund. Please reach out to our support team with the details so we can investigate and assist you further.",
+    "grounding": "Evidence 3 influenced the response by guiding the customer to contact support for assistance with an unresolved issue.",
+    "response_confidence": 0.95
+  },
+  "2303639": {
+    "reply": "We are sorry for the trouble with your delivery. Please check your order details page to find the carrier and tracking information.",
+    "grounding": "Evidence 2 and 3 show that agents advise checking the order page to find carrier details.",
+    "response_confidence": 0.95
+  },
+  "442789": {
+    "reply": "Bonjour! Je suis navré d'apprendre cela. Avez-vous déjà signalé ce problème à notre service client pour obtenir de l'aide supplémentaire ?",
+    "grounding": "Evidence 2 suggests asking if the customer has reported the issue to customer service.",
+    "response_confidence": 0.95
+  },
+  "2791903": {
+    "reply": "Que de superbes lectures! C'est un vrai plaisir de pouvoir profiter de autant de bons livres. Bonnes lectures!",
+    "grounding": "Evidence 1 and 4 influenced the friendly, conversational tone acknowledging great book choices.",
+    "response_confidence": 0.95
+  },
+  "2378197": {
+    "reply": "Please keep in mind that our Twitter page is public, so kindly avoid sharing personal order details here for your privacy. You can track your package directly through your account.",
+    "grounding": "Evidence 1 and 3 advise customers not to share personal order details on the public Twitter page.",
+    "response_confidence": 0.98
+  },
+  "2548042": {
+    "reply": "We're sorry for the trouble! Please check your order history page for the most recent tracking updates and delivery status.",
+    "grounding": "Evidence 3 and 5 influenced directing the customer to check tracking and updates on their order page.",
+    "response_confidence": 0.95
+  },
+  "603159": {
+    "reply": "I'm sorry for the inconvenience with your delivery date. Please reach out to our customer support team so we can look into this further with you.",
+    "grounding": "Evidence 5 inspired the apology and recommendation to contact support regarding the delivery date change.",
+    "response_confidence": 0.95
+  },
+  "743262": {
+    "reply": "We are sorry that your book has not arrived as expected. Have you received an email with an explanation for the delay?",
+    "grounding": "Evidence 1 provided a direct template and phrasing for addressing a delayed book inquiry.",
+    "response_confidence": 0.96
+  },
+  "244693": {
+    "reply": "I understand your frustration, but as this is a public social platform, we are unable to access your account details directly. Please reach out through our secure support channels for assistance.",
+    "grounding": "Evidence 5 informed the explanation that account details cannot be accessed directly on a social platform.",
+    "response_confidence": 0.97
+  },
+  "19141": {
+    "reply": "Prime offers free shipping for Prime-eligible orders, though the availability of expedited shipping can depend on your location. Please check your order details for the estimated delivery date.",
+    "grounding": "Evidence 2 provided information about Prime shipping availability and policies.",
+    "response_confidence": 0.95
+  },
+  "206006": {
+    "reply": "I'm sorry for the trouble with your account and payment confirmation. For security reasons and to best assist you with closed account issues, please reach out to our customer support team directly by phone.",
+    "grounding": "Evidence 4 and Evidence 5 influenced advising secure contact methods when dealing with sensitive account and email issues.",
+    "response_confidence": 0.94
+  },
+  "2111015": {
+    "reply": "I'm sorry for the delay and frustration with tracking your Prime order. Since we cannot view order details here, please check your latest tracking information and delivery status directly in your order history on our website.",
+    "grounding": "Evidence 3 and Evidence 5 show responding to delivery delays by advising customers to check their order details and tracking info directly on the website since account details cannot be viewed on Twitter.",
+    "response_confidence": 0.95
+  },
+  "1336211": {
+    "reply": "I'm so sorry for the frustrating delivery experience! We'd love to look into this further and share your feedback with our transportation team. Please reach out to us with your details via our support page so we can assist.",
+    "grounding": "Evidence 3 and Evidence 5 show offering to report carrier issues to the transportation team and asking the customer to share details through support channels.",
+    "response_confidence": 0.95
+  },
+  "425470": {
+    "reply": "I understand your concern about the order link. If you prefer not to use the link, you can check your order details and contact customer service directly by signing into your account on our website.",
+    "grounding": "Evidence 1, 2, and 3 address customers declining to use links, noting security concerns with order details on Twitter and directing them appropriately.",
+    "response_confidence": 0.93
+  },
+  "16448": {
+    "reply": "Amazonギフト券のチャージ完了後のお支払いについてご不明な点があり、ご不便をおかけしております。通常、ギフト券がアカウントに登録されている場合は、注文手続きの最終確認画面にて残高が自動的に適用されます。「次に進む」が表示されない場合は、ブラウザの更新や再読み込みをお試しいただくか、アカウントサービスより注文履歴をご確認ください。",
+    "grounding": "Evidence 2 and 4 provide guidance on checking final confirmation screens and order status, adapted for a Japanese payment/checkout inquiry.",
+    "response_confidence": 0.9
+  },
+  "2408721": {
+    "reply": "I am truly sorry for the frustration and that you've had to repeat your issue to multiple agents today. We want to help make this right—could you let us know what specific options or information were provided to you during your previous contacts?",
+    "grounding": "Evidence 2 and 3 demonstrate responding to customer frustration about multiple agents by asking what information and options were previously provided.",
+    "response_confidence": 0.95
+  },
+  "125302": {
+    "reply": "Schlaf gut! Melde dich einfach wieder, wenn du noch Fragen hast. ^SI",
+    "grounding": "Evidence 1 was used to draft a friendly, polite closing wishing the customer a good night.",
+    "response_confidence": 0.95
+  },
+  "596771": {
+    "reply": "I'm sorry for the frustration with your delivery! Could you please reach out to our support team so we can look into this order for you?",
+    "grounding": "Evidence 1 and Evidence 3 inspired the recommendation to contact support for order investigation regarding shipping delays.",
+    "response_confidence": 0.95
+  },
+  "2602981": {
+    "reply": "I'm sorry to hear about your delivery experience. We'd like to look into this with you, so please reach out to our support team for assistance.",
+    "grounding": "Evidence 3 and Evidence 4 influenced the apology for delivery trouble and the suggestion to connect with support.",
+    "response_confidence": 0.95
+  },
+  "583542": {
+    "reply": "Sorry to hear that! Please reach out to our support team so we can look into this charger issue for you.",
+    "grounding": "Evidence 4 was used to shape the response offering assistance and directing the customer to support for a faulty item.",
+    "response_confidence": 0.95
+  },
+  "2750369": {
+    "reply": "The winners will be announced soon. Please stay tuned to our page for updates!",
+    "grounding": "Evidence 1 and Evidence 4 guided the response to inform the customer that winner announcements will be shared soon.",
+    "response_confidence": 0.95
+  },
+  "534070": {
+    "reply": "I'm so sorry your parcel was left out in the weather! We'd love to look into this further with you. When you have a moment, please reach out to our support team with more details so we can help.",
+    "grounding": "Evidence 3 and 4 influenced the apology for weather damage and the suggestion to reach out for further assistance.",
+    "response_confidence": 0.95
+  },
+  "1510497": {
+    "reply": "I'm so sorry for the frustration with your delayed deliveries! When you placed the order, what delivery date was provided in your confirmation email?",
+    "grounding": "Evidence 3 and 5 influenced the apology for delivery delays and asking about the confirmation email delivery date.",
+    "response_confidence": 0.95
+  },
+  "663823": {
+    "reply": "I'm so sorry you haven't received the help you need! Without sharing personal details, could you tell us a bit more about what this is in relation to so we can assist?",
+    "grounding": "Evidence 1 and 3 influenced the response acknowledging frustration and asking for more context without personal details.",
+    "response_confidence": 0.95
+  },
+  "2685195": {
+    "reply": "I'm really sorry to hear about the trouble with your delivery times! Some deliveries can take longer during busy periods, but please check your order confirmation for the estimated delivery date. Let us know if we can help further.",
+    "grounding": "Evidence 2 and 3 influenced the apology for delivery delays and the mention of checking order details.",
+    "response_confidence": 0.95
+  },
+  "1095958": {
+    "reply": "Bonjour, je suis désolée pour ce souci. Avez-vous essayé d'accéder au site depuis un autre navigateur pour voir si le problème persiste?",
+    "grounding": "Evidence 1 influenced the French response suggesting to try another browser.",
+    "response_confidence": 0.95
+  },
+  "1219171": {
+    "reply": "Bonjour, nous sommes désolés pour ce souci d'affichage sur la publicité. N'hésitez pas à contacter notre service client pour remonter ce détail technique.",
+    "grounding": "Evidence 4 was used to guide a polite and helpful customer service response in French.",
+    "response_confidence": 0.95
+  },
+  "1338605": {
+    "reply": "We would love to look into this for you. Please reach out to our support team through the contact page on our website so we can check the status of your cashback.",
+    "grounding": "Evidence 5 inspired directing the customer to contact support regarding cashback issues.",
+    "response_confidence": 0.95
+  },
+  "2367914": {
+    "reply": "Oh no! Could you check the most recent tracking updates for your package to see where it currently is?",
+    "grounding": "Evidence 1 was used to suggest checking the most recent tracking updates.",
+    "response_confidence": 0.95
+  },
+  "2609240": {
+    "reply": "Ci scusiamo per i ripetuti ritardi riscontrati con le spedizioni. Se desideri maggiori informazioni o assistenza sul tuo ordine, puoi contattare il nostro Servizio Clienti.",
+    "grounding": "Evidence 5 influenced suggesting contact with Customer Service for delivery information.",
+    "response_confidence": 0.95
+  },
+  "2703132": {
+    "reply": "We apologize for the trouble! Please try visiting our contact page where you can choose alternative support options depending on availability.",
+    "grounding": "Evidence 3 and Evidence 5 influenced advising the customer to use the contact page for further assistance.",
+    "response_confidence": 0.95
+  },
+  "281954": {
+    "reply": "I'm sorry for the frustrating experience with the cancellation process. Please reach out to our support team directly so we can look into this and help you further. ^NR",
+    "grounding": "Evidence 4 inspired offering an apology for the unpleasant experience and suggesting to connect with support for further review.",
+    "response_confidence": 0.95
+  },
+  "2830772": {
+    "reply": "Thanks for the confirmation. Please reach out to our customer service directly so we can look into this for you. ^PK",
+    "grounding": "Evidence 4 inspired acknowledging the customer's input and directing them to contact customer service for further assistance.",
+    "response_confidence": 0.95
+  },
+  "2726815": {
+    "reply": "I understand your concern. Our specialist team is currently working on your issue, and we appreciate your patience while we look into it. ^GK",
+    "grounding": "Evidence 5 inspired addressing the timeline concern by stating the specialist team is working on the issue and asking for patience.",
+    "response_confidence": 0.95
+  },
+  "1005105": {
+    "reply": "We're still looking into your concern and will get in touch with you as soon as we receive an update from our concerned team. Appreciate your patience. ^AM",
+    "grounding": "Evidence 2 inspired reassuring the customer that the team is looking into the concern and asking for patience while waiting for an update.",
+    "response_confidence": 0.95
+  },
+  "280626": {
+    "reply": "Lamentamos los inconvenientes con el servicio de entrega. Por favor, ponte en contacto con nuestro servicio al cliente para revisar tu caso directamente. ^AR",
+    "grounding": "Evidence 5 inspired offering an apology for the trouble and directing the customer to contact customer service for assistance in Spanish.",
+    "response_confidence": 0.95
+  },
+  "2664066": {
+    "reply": "Es tut mir leid, dass du Frustration bezüglich deiner Zahlungsart erlebst. Wir bieten die Möglichkeit, Amazon.de Geschenkkarten aus dem stationären Handel für Bestellungen einzulösen, falls du keine Kreditkarte nutzen möchtest.",
+    "grounding": "Evidence 5 was used to inform about alternative payment methods like gift cards when credit cards are not desired.",
+    "response_confidence": 0.95
+  },
+  "2790466": {
+    "reply": "I'm so sorry your book arrived in this condition! You can check your return or replacement options by visiting our website.",
+    "grounding": "Evidence 4 and 5 influenced the response regarding checking return and replacement options for damaged items.",
+    "response_confidence": 0.95
+  },
+  "850142": {
+    "reply": "Je suis désolé d'apprendre cela. N'hésitez pas à contacter notre service client afin que nous puissions examiner la situation pour vous.",
+    "grounding": "Evidences 1, 2, and 3 were used to direct the customer to contact customer support for further assistance.",
+    "response_confidence": 0.95
+  },
+  "2255230": {
+    "reply": "I'm sorry for the frustration with checkout and delivery times! Without sharing account-specific info, could you tell us more about what's going on so we can help?",
+    "grounding": "Evidence 4 inspired asking for more details without requesting personal or account-specific information.",
+    "response_confidence": 0.95
+  },
+  "2524372": {
+    "reply": "I'm so sorry to hear about the delivery delay and the trouble with the shipping partner! We'd like to have a specialist look into this further for you.",
+    "grounding": "Evidence 1 inspired offering a specialist to look into shipping and delivery issues further.",
+    "response_confidence": 0.95
+  },
+  "2826407": {
+    "reply": "Piacere nostro! Restiamo a tua completa disposizione. Buona giornata! ^MZ",
+    "grounding": "Evidence 1 shows friendly closing and availability in Italian.",
+    "response_confidence": 0.95
+  },
+  "2472509": {
+    "reply": "I'm sorry to hear your package hasn't arrived yet. Please reach out to our support team so we can look into this delivery delay for you.",
+    "grounding": "Evidence 3 and Evidence 5 address missing packages and direct the customer to support.",
+    "response_confidence": 0.95
+  },
+  "2690663": {
+    "reply": "I am so sorry for this frustrating delivery experience. Please reach out to our support team so we can investigate this driver issue for you.",
+    "grounding": "Evidence 3 influenced the apology style and the suggestion to contact support for investigation.",
+    "response_confidence": 0.95
+  },
+  "795721": {
+    "reply": "I'm sorry for the frustration with your delivery status. Please contact our support team so we can look into this issue further for you.",
+    "grounding": "Evidence 1 and Evidence 3 inspired the apology for delivery issues and the prompt to contact support.",
+    "response_confidence": 0.95
+  },
+  "1180560": {
+    "reply": "I'm sorry for the trouble with your delivery! We'd like to take a closer look at this with you. Could you share more details about what happened?",
+    "grounding": "Evidence 3 and Evidence 4 influenced the apology and the request for more details about the delivery issue.",
+    "response_confidence": 0.95
+  },
+  "729221": {
+    "reply": "Bonjour. Afin de préserver la confidentialité de vos informations personnelles, merci de ne pas partager votre identifiant ici. Pour toute assistance concernant l'accès à votre compte, veuillez contacter notre service client.",
+    "grounding": "Evidence 3 and Evidence 5 show polite assistance and directing customers securely without handling private login details on a public thread.",
+    "response_confidence": 0.95
+  },
+  "1786560": {
+    "reply": "I'm so sorry for the frustration with this delivery! Please reach out to our support team directly for assistance with your shipment.",
+    "grounding": "Evidence 1 and Evidence 3 demonstrate apologizing for delivery carrier issues and directing the customer to reach out via official support channels.",
+    "response_confidence": 0.96
+  },
+  "738378": {
+    "reply": "Apologies for the delay in receiving your order. Please report this to our support team so they can assist you accordingly, and please avoid sharing order details publicly.",
+    "grounding": "Evidence 2 and Evidence 3 highlight warning customers against sharing private order information publicly while pointing them to support.",
+    "response_confidence": 0.95
+  },
+  "446780": {
+    "reply": "Hola. Lamentamos mucho este inconveniente con tu envío. Sin compartir información personal o de tu cuenta, ¿podrías indicarnos qué muestra el seguimiento?",
+    "grounding": "Evidence 1, 3, and 5 guided the response to greet the customer in Spanish, ask about the tracking status safely, and avoid sharing personal data.",
+    "response_confidence": 0.97
+  },
+  "2913233": {
+    "reply": "Bonjour, je suis sincèrement désolé pour ce problème de livraison. Qu'indique le suivi du transporteur pour ces commandes ?",
+    "grounding": "Evidence 4 inspired asking for carrier tracking information to understand the delivery delay.",
+    "response_confidence": 0.96
+  },
+  "30026": {
+    "reply": "@AmazonHelp Olá! O Prime Video é um benefício que já está incluído na sua assinatura do Amazon Prime. Para verificar detalhes específicos sobre pagamentos adicionais e canais extras, por favor, entre em contato com o nosso suporte ao cliente.",
+    "grounding": "Evidence 3 shows that Prime Video is included in Prime, and Evidence 1/5 guide users to support channels for further details.",
+    "response_confidence": 0.95
+  },
+  "67567": {
+    "reply": "@AmazonHelp I'm so sorry for the conflicting delivery updates! We expect it to arrive on the date shown in your most recent notification. Please keep us posted on its arrival.",
+    "grounding": "Evidence 2 suggests that if conflicting notifications occur, the most recent notification applies and customers should keep support posted.",
+    "response_confidence": 0.95
+  },
+  "737158": {
+    "reply": "@AmazonHelp Sorry about that! Could you let us know what error you are getting while trying to access the link?",
+    "grounding": "Evidence 3 asks the customer about the specific error they are getting when a link does not work.",
+    "response_confidence": 0.95
+  },
+  "656158": {
+    "reply": "@AmazonHelp I am so sorry to hear that your parcel was sent to the wrong place! We would love to take a closer look into this for you. Please reach out to our customer support team directly so we can help investigate.",
+    "grounding": "Evidence 1 and 3 demonstrate apologizing for delivery mishaps and directing customers to reach out via support links for further investigation.",
+    "response_confidence": 0.95
+  },
+  "2137909": {
+    "reply": "@AmazonHelp Das tut mir leid! Bitte wende dich an unseren Kundenservice, damit meine Kollegen dir bezüglich der Benachrichtigung weiterhelfen können.",
+    "grounding": "Evidence 2 and 3 show directing German-speaking customers to customer service when facing delivery or tracking issues.",
+    "response_confidence": 0.95
+  },
+  "1145926": {
+    "reply": "I'm sorry for any uncertainty regarding your package. If it doesn't arrive by tomorrow, please reach out to our support team so we can look into your options.",
+    "grounding": "Evidence 1 and Evidence 5 influenced the response by addressing late delivery and suggesting checking the order status or contacting support if it doesn't arrive.",
+    "response_confidence": 0.95
+  },
+  "1774583": {
+    "reply": "I'm sorry for the frustration with getting in touch. Please reach out to our support team via phone or live chat so we can help look into this for you.",
+    "grounding": "Evidence 1 and Evidence 2 influenced the response by addressing unhelpful support experiences and suggesting connecting via phone or live chat.",
+    "response_confidence": 0.95
+  },
+  "2954320": {
+    "reply": "I'm so sorry for the delay with your package. Could you let us know what the latest tracking updates show or who the carrier is?",
+    "grounding": "Evidence 1 and Evidence 4 influenced the response by acknowledging delivery delays and asking for the carrier and tracking details.",
+    "response_confidence": 0.95
+  },
+  "2586299": {
+    "reply": "I'm sorry for the frustration with your recurring subscription issue. Please connect with our support team through your account correspondence so we can assist you further.",
+    "grounding": "Evidence 1 influenced the response by addressing recurring issues and directing the customer to existing support correspondence.",
+    "response_confidence": 0.95
+  },
+  "514639": {
+    "reply": "I'm sorry your order hasn't arrived yet. Late orders typically arrive the following business day, but you can check your tracking details for the most up-to-date information.",
+    "grounding": "Evidence 4 and Evidence 5 influenced the response by addressing delayed evening deliveries and noting that late orders often arrive the next business day.",
+    "response_confidence": 0.95
+  }
+}

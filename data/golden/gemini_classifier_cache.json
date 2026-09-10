@@ -1,0 +1,1002 @@
+{
+  "981467": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The message is a casual statement or observation about a TV show's availability on Prime Video and does not contain a clear actionable customer support request or question."
+  },
+  "2199056": {
+    "intent": "TECHNICAL",
+    "confidence": 0.98,
+    "reason": "The customer reports that Prime Video streaming is not working, which indicates a technical malfunction or playback issue."
+  },
+  "1939024": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer's message lacks sufficient information or detail to determine a specific actionable support intent."
+  },
+  "1104387": {
+    "intent": "TECHNICAL",
+    "confidence": 0.9,
+    "reason": "The customer is reporting an error message when attempting to play video content across multiple devices."
+  },
+  "1432324": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.9,
+    "reason": "The customer is primarily expressing dissatisfaction with Amazon customer support's handling of their issue, complaining about repeated apologies and lack of fast resolution or assistance."
+  },
+  "1155096": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about an order taking seven days to arrive despite paying for one-day shipping, which indicates a delivery delay issue."
+  },
+  "2925584": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.85,
+    "reason": "The customer is complaining that the delivery carrier fails to attempt deliveries or visit addresses in Hermosillo."
+  },
+  "2457184": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.9,
+    "reason": "The customer is primarily expressing dissatisfaction with Amazon's service and customer support, citing a lack of proper answers, responsibility, and cooperation regarding why their orders are being returned."
+  },
+  "545718": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about Amazon customer support failing to respond or resolve their issue after multiple reports, leading to their trial expiring."
+  },
+  "134893": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer message is a casual social media post or anecdote describing an event with a link, rather than a direct, actionable request for customer support."
+  },
+  "150530": {
+    "intent": "DIGITAL_CONTENT",
+    "confidence": 0.98,
+    "reason": "The customer is asking an informational question about the rental period and access duration for digital movies."
+  },
+  "2971969": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing frustration and dissatisfaction with previous customer support interactions and a lack of effective resolution."
+  },
+  "2089264": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer explicitly states that their issue is already sorted with the help desk and provides general commentary, so there is no active actionable support request."
+  },
+  "2474828": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer message provides a status update stating an issue is partially resolved, without requesting actionable support or expressing a specific intent covered by other categories."
+  },
+  "2033234": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with a previous customer support response ('Nothing we can do as they are all sold out now') regarding their unfulfilled pre-order."
+  },
+  "2930736": {
+    "intent": "ORDER_CHANGE",
+    "confidence": 0.98,
+    "reason": "The customer is explicitly requesting to change their delivery address on an order they just placed."
+  },
+  "1262588": {
+    "intent": "TECHNICAL",
+    "confidence": 0.85,
+    "reason": "The customer is reporting a website or application issue where only 2-day shipping options are being displayed across multiple items."
+  },
+  "1474641": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about the delivery driver's behavior, but there is no explicit actionable request or matching category such as return, refund, or delivery failure in the defined intents."
+  },
+  "1367395": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer is complaining that companies, including Amazon, are not delivering to their location, indicating a failure or delay in delivery services to their area."
+  },
+  "1355352": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer message is casual communication expressing thanks and noting that something works on the Xbox, lacking a clear actionable support intent."
+  },
+  "729023": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is asking about an order they haven't received yet and mentions it is past due, while discussing delivery responsibility with customer care."
+  },
+  "842170": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer message expresses confusion or frustration without providing a clear actionable support intent or enough information to determine a specific category."
+  },
+  "121148": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message is praise and casual conversation regarding a product/service without any actionable support request."
+  },
+  "255094": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting a specific playback malfunction where they cannot stream in HD despite having sufficient internet speed and correct settings."
+  },
+  "1050392": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer is complaining that shipping times, especially for preordered items, differ from what was expected, pointing to an issue with delivery timing."
+  },
+  "2774138": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer is threatening legal action without specifying a clear support issue such as delivery, return, or refund, making it impossible to classify under a standard support intent."
+  },
+  "2069828": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.9,
+    "reason": "The customer is asking to purchase items individually rather than as pantry-only, which relates to product availability and purchasing options."
+  },
+  "323292": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is casually commenting that they have already watched all the episodes in both VOSTFR and VF, which lacks a clear actionable support intent or question."
+  },
+  "425053": {
+    "intent": "REFUND",
+    "confidence": 0.8,
+    "reason": "The customer mentions that only half the order was refunded and expresses frustration about the refund and late delivery."
+  },
+  "1380607": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that despite paying extra for faster shipping, their order is delayed and will arrive a week later than promised."
+  },
+  "1145003": {
+    "intent": "OTHER",
+    "confidence": 0.8,
+    "reason": "The message provides seller information without a clear actionable support intent."
+  },
+  "89225": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message is irrelevant content or casual social media sharing with no clear actionable Amazon support intent."
+  },
+  "2768262": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message is casual social media content mentioning a video about Amazon and does not contain a clear actionable support intent."
+  },
+  "947272": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with the lack of support from the contact center and asking to review logs related to their queries, indicating a complaint about customer support."
+  },
+  "1328913": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is expressing appreciation and casual conversation after receiving help via email, which lacks an actionable support intent."
+  },
+  "2429453": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.85,
+    "reason": "The customer is expressing dissatisfaction with Amazon's selection of sellers and delivery services, which constitutes a complaint about Amazon's service quality rather than a specific actionable request like a return, tracking, or refund."
+  },
+  "2410474": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer is explicitly concerned that their account is blocked and their order is on hold, which means their order might not arrive by the expected delivery date."
+  },
+  "745054": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.85,
+    "reason": "The customer is asking about a specific product sold by a third-party seller and mentioning its Prime delivery status."
+  },
+  "287905": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing frustration about the lack of response and delayed replies from Amazon customer support after following instructions."
+  },
+  "181153": {
+    "intent": "OTHER",
+    "confidence": 0.7,
+    "reason": "The customer message mentions a lock and a translation attempt but lacks enough context to determine a specific actionable support intent."
+  },
+  "2072980": {
+    "intent": "SELLER_FRAUD",
+    "confidence": 0.85,
+    "reason": "The customer describes a suspicious arrangement to meet a seller in a public place to receive an order, which indicates potential scam or suspicious seller behavior."
+  },
+  "535164": {
+    "intent": "RETURN",
+    "confidence": 0.9,
+    "reason": "The customer received a damaged and unsealed product, states they are not sure if it is new or refurbished, and mentions they have ordered a replacement."
+  },
+  "2741835": {
+    "intent": "ORDER_CHANGE",
+    "confidence": 0.95,
+    "reason": "The customer explicitly stated they accidentally canceled the order and need help with it."
+  },
+  "230829": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.98,
+    "reason": "The customer is complaining that their Amazon package has not arrived and asking how long they have to wait, indicating a delivery delay."
+  },
+  "2551067": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.9,
+    "reason": "The customer is expressing explicit dissatisfaction with Amazon customer support and the handling of their issue by 'specialists', making it primarily a support complaint rather than solely a payment or technical issue."
+  },
+  "149219": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about the poor customer service experience and the excessive time spent trying to resolve an issue with Amazon compared to a physical store."
+  },
+  "311574": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The customer message is expressing thanks and is casual, falling under the definition of OTHER."
+  },
+  "676916": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.7,
+    "reason": "The customer mentions the carrier OnTrac in connection with AmazonHelp, which indicates an inquiry related to shipment tracking or delivery status."
+  },
+  "1137938": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.85,
+    "reason": "The customer is complaining about price changes and offers on a purchased product shortly after ordering, which relates to product pricing and promotions."
+  },
+  "2870625": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that their packages are never on time despite paying for Prime, indicating an issue with late deliveries."
+  },
+  "290449": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.95,
+    "reason": "The customer is asking for an update on the location and status of a parcel before leaving for the weekend."
+  },
+  "470840": {
+    "intent": "SELLER_FRAUD",
+    "confidence": 0.85,
+    "reason": "The customer received a suspicious email regarding an order cancellation and an advantage rate, mentions contacting customer support and that the fax line is unavailable, which indicates reporting a potential phishing or scam attempt (SELLER_FRAUD)."
+  },
+  "1506840": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting that the Amazon page is unusually slow and expressing concern about potential malware, which fits the definition of a technical problem with the website or application."
+  },
+  "2958620": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer is expressing concern that their package will not arrive by the end of the day and anticipates a delay based on the status page and time."
+  },
+  "25261": {
+    "intent": "PRIME",
+    "confidence": 0.95,
+    "reason": "The customer is asking about Amazon Prime membership benefits regarding whether Amazon Video is included for free as a Prime customer."
+  },
+  "384537": {
+    "intent": "PAYMENT",
+    "confidence": 0.9,
+    "reason": "The customer states that the system will not allow them to check out with items in their basket, which falls under checkout and payment problems."
+  },
+  "1560589": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.95,
+    "reason": "The customer is asking for the collection code email to retrieve a package that was marked as delivered to a locker, which falls under delivery tracking and status information."
+  },
+  "833942": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting a difficulty with rewinding and fast-forwarding on the PS4 app, which is a technical malfunction or usability issue with the application."
+  },
+  "629631": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer mentions waiting until Friday due to general delivery difficulties and delays related to Cyber Monday and Christmas shopping."
+  },
+  "792095": {
+    "intent": "OTHER",
+    "confidence": 0.85,
+    "reason": "The customer is expressing a general concern about their credit rating rather than stating a specific actionable support intent like delivery, billing, or returns."
+  },
+  "2733901": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that their package is nearby in Indianapolis yet has not arrived, questioning the logistical delay and lack of delivery."
+  },
+  "1557714": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.7,
+    "reason": "The customer is expressing frustration about the difficulty of retrieving their package, which implies a delivery delay or issue with receiving the order."
+  },
+  "975699": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.95,
+    "reason": "The customer states that a delivery attempt could not be completed despite being at home, and no delivery slip was left, which matches the definition of a failed delivery attempt."
+  },
+  "793818": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.8,
+    "reason": "The customer is following up because they are still waiting for a response, indicating dissatisfaction with the support handling or delay in getting help."
+  },
+  "836887": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The message is too vague and lacks a clear actionable support intent."
+  },
+  "2111167": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.95,
+    "reason": "The customer is asking how to ensure a driver contacts them after a failed delivery attempt."
+  },
+  "2074021": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.9,
+    "reason": "The customer is complaining about the lack of communication and delayed response from Amazon customer support after a promised timeframe."
+  },
+  "1100553": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.95,
+    "reason": "The customer is comparing the pricing of a specific product (Supernatural DVD) on Amazon versus another place in Chile, focusing on product pricing and availability."
+  },
+  "975729": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.85,
+    "reason": "The customer is complaining about pricing and responsibility for the product listed by a seller, which falls under order product inquiries and pricing."
+  },
+  "807350": {
+    "intent": "SELLER_FRAUD",
+    "confidence": 0.9,
+    "reason": "The customer is asking about a seller account issue and mentions a suspicious link and getting a message regarding selling when they do not have a seller account, which points towards potential phishing or unauthorized activity."
+  },
+  "2641334": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer message is asking about the results of a game/sweepstakes rather than a customer support issue related to orders, delivery, or account management."
+  },
+  "984115": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer is making a feature request to add Arabic language support, which does not fit any of the specific support intents like technical malfunction or digital content questions, making OTHER the most appropriate category."
+  },
+  "1209042": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing extreme dissatisfaction with Amazon customer support in India, complaining about agents hanging up, not listening, and providing poor service."
+  },
+  "842234": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer message is casual conversation and lacks a clear actionable support intent."
+  },
+  "1622175": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer is noting that their package is supposed to be delivered today and expresses concern about the post office delivery policy preventing it from fitting in the mailbox."
+  },
+  "1409074": {
+    "intent": "SELLER_FRAUD",
+    "confidence": 0.9,
+    "reason": "The customer is reporting that a seller is charging a price higher than the MRP, considering it illegal and suspicious seller behavior."
+  },
+  "420447": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer message only provides a phone number and lacks a clear actionable support intent."
+  },
+  "2612267": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is primarily expressing dissatisfaction with poor customer service and a lack of follow-up regarding their late delivery."
+  },
+  "2985519": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message expresses praise and thanks for customer service without any actionable support intent."
+  },
+  "2877043": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.95,
+    "reason": "The customer is reporting an issue with a specific order item received, specifically that the package arrived empty."
+  },
+  "2939013": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message is casual conversation/reference without any clear actionable support intent."
+  },
+  "985097": {
+    "intent": "ORDER_CHANGE",
+    "confidence": 0.85,
+    "reason": "The customer is requesting urgent action on two specific orders, implying a modification, cancellation, or update request."
+  },
+  "331237": {
+    "intent": "DIGITAL_CONTENT",
+    "confidence": 0.95,
+    "reason": "The customer is asking about watching a specific movie (Blade Runner) on Prime Video, which falls under inquiring about digital content availability without reporting a technical malfunction."
+  },
+  "693873": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer states the expected delivery date was yesterday and mentions a delay, fitting the DELIVERY_DELAY intent despite asking a tracking question."
+  },
+  "812374": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is expressing happiness and gratitude about a delivery update rather than reporting an unresolved support issue or actionable problem."
+  },
+  "279369": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer is asking to expedite the process, which implies a request to speed up a pending or delayed shipment."
+  },
+  "2680825": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that their paid 1-day shipping order for their son's first Halloween has not arrived on time."
+  },
+  "348550": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message is praise and casual conversation thanking customer support, which falls under the OTHER intent category."
+  },
+  "2604933": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with the response from a previous representative and the prolonged timeline for an investigation, which falls under support complaint rather than the underlying issue."
+  },
+  "2390428": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The customer message is expressing praise and sarcasm about delivery speed without requesting support or stating an actionable issue."
+  },
+  "2679212": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The message is too brief and lacks enough specific information to determine a clear support intent."
+  },
+  "1433644": {
+    "intent": "PAYMENT",
+    "confidence": 0.85,
+    "reason": "The customer is complaining about having to pay extra money (Rs. 100 more) for a re-ordered item due to a delivery mistake, which relates to a payment or billing issue resulting from an order correction."
+  },
+  "914147": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that 22 days have passed and they are still waiting for their package, indicating a late or overdue delivery."
+  },
+  "994227": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining sarcastically about a delivery, implying it was delivered incorrectly, damaged, or otherwise unsatisfactory, which falls under DELIVERY_FAILURE."
+  },
+  "2827203": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.85,
+    "reason": "The customer is asking about tracking codes or carrier abbreviations related to a delivery status."
+  },
+  "2718526": {
+    "intent": "RETURN",
+    "confidence": 0.95,
+    "reason": "The customer is complaining about the hassle of returning their orders and questioning why they should buy from Amazon given this experience."
+  },
+  "416675": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting a specific error message and a malfunction related to their account password."
+  },
+  "1117976": {
+    "intent": "PAYMENT",
+    "confidence": 0.9,
+    "reason": "The customer is complaining that Cash on Delivery (COD) is blocked on their account, which relates to a payment method and billing/checkout issue."
+  },
+  "2534511": {
+    "intent": "TECHNICAL",
+    "confidence": 0.85,
+    "reason": "The customer is reporting that a problem or malfunction persists and mentions device functionality, which aligns with a technical issue."
+  },
+  "432317": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that the delivery has not happened within the promised time frame of 4 to 10 October, stating it is overdue."
+  },
+  "2600817": {
+    "intent": "PRIME",
+    "confidence": 0.95,
+    "reason": "The customer is discussing their Amazon Prime membership automatically renewing from a trial and being charged, which falls under Prime membership subscription management."
+  },
+  "385325": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.9,
+    "reason": "The customer is expressing dissatisfaction regarding a lack of response from support after attempting to resolve an issue."
+  },
+  "849774": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with Amazon customer support's failure to follow up with a call and only sending auto-responses to their emails."
+  },
+  "843528": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is stating that the order is pending shipment and that they have been notified multiple times that it is going to be delayed."
+  },
+  "2262300": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer is expressing satisfaction with support and hoping a delivery happens as promised, without a distinct unresolved primary support issue, making it fit best under OTHER."
+  },
+  "1306038": {
+    "intent": "RETURN",
+    "confidence": 0.7,
+    "reason": "The customer is already in progress for a return and mentions hoping for a refund and preventing the item from being resent, but the primary actionable process underway is the return itself."
+  },
+  "282737": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that the Super Famicom Mini has not arrived ('届かない'), which matches the definition of a delivery delay."
+  },
+  "2752411": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.85,
+    "reason": "The customer is asking to view product information ('see it before I buy') regarding a specific book where a feature is broken."
+  },
+  "1470350": {
+    "intent": "PAYMENT",
+    "confidence": 0.8,
+    "reason": "The customer is questioning why bank security services are not used for transactions, indicating a payment or security-related billing concern."
+  },
+  "379393": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.9,
+    "reason": "The customer is expressing dissatisfaction with the customer support agent who previously told them an order was cancelled, but it was still delivered anyway."
+  },
+  "1200325": {
+    "intent": "OTHER",
+    "confidence": 0.85,
+    "reason": "The customer is expressing general worry based on reviews about drivers stealing packages rather than reporting a specific active issue like a delayed, missing, or tracked delivery."
+  },
+  "465085": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The customer message is casual conversation and expresses excitement, lacking any actionable support intent."
+  },
+  "478564": {
+    "intent": "REFUND",
+    "confidence": 0.95,
+    "reason": "The customer explicitly asks to start a refund regarding a service issue with a product."
+  },
+  "2766316": {
+    "intent": "ORDER_CHANGE",
+    "confidence": 0.85,
+    "reason": "The customer is asking to update a pin code (delivery address detail) in the system that is not picking up when searching."
+  },
+  "2336104": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is directly expressing dissatisfaction with Amazon's customer service and service quality."
+  },
+  "1832097": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that a package within the same city has not been delivered within two days, which refers to a delivery delay."
+  },
+  "1578401": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that their pre-ordered Collector's Edition has not been sent out on time and is delayed."
+  },
+  "2915800": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The customer message is casual conversation/praise mentioning Watchmen without any actionable customer support intent."
+  },
+  "2612337": {
+    "intent": "REFUND",
+    "confidence": 0.95,
+    "reason": "The customer is specifically requesting to stop a refund because the items were successfully received after a previous delivery failure due to an incomplete address."
+  },
+  "2971977": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is expressing satisfaction and praising the Prime Now delivery service without making a support request or reporting an issue."
+  },
+  "1364740": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The message is ambiguous, lacks a clear actionable support intent, and does not contain enough information to classify it into a specific category."
+  },
+  "145688": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that their next-day delivery (which they pay a subscription for) has not arrived as expected."
+  },
+  "734643": {
+    "intent": "TECHNICAL",
+    "confidence": 0.9,
+    "reason": "The customer is reporting an issue with a link requiring a login password they do not possess, which represents a technical barrier or access problem."
+  },
+  "2540319": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is expressing gratitude, mentioning that they will check at the post office if nothing arrives, and wishing a good day, which falls under casual conversation and thanks."
+  },
+  "423003": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with Amazon support, stating they are not getting a solution from Amazon."
+  },
+  "970583": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction and complaining that they have not received a call back from customer support yet."
+  },
+  "1136233": {
+    "intent": "OTHER",
+    "confidence": 0.85,
+    "reason": "The customer is describing an issue with a product review being rejected by a seller, which does not fit standard support intents like delivery, returns, or technical issues, falling best under OTHER."
+  },
+  "1237563": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.9,
+    "reason": "The customer describes a failed delivery attempt where the carrier (Fedex) rings the bell and drives off immediately without completing the delivery properly."
+  },
+  "1114375": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer states that guests have left and the order still has not arrived, indicating a delayed or overdue delivery."
+  },
+  "1791181": {
+    "intent": "PAYMENT",
+    "confidence": 0.85,
+    "reason": "The customer is discussing account balance and funds, which relates to payment, billing, or card status."
+  },
+  "1426202": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with a previous agent's unfulfilled promise and lack of communication, which represents a support complaint."
+  },
+  "2864719": {
+    "intent": "PRIME",
+    "confidence": 0.8,
+    "reason": "The customer message mentions shopping with prime Now, which relates to Amazon Prime services."
+  },
+  "701436": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer is expressing frustration that their paid package has not arrived yet and they just want it to be delivered."
+  },
+  "2405151": {
+    "intent": "SELLER_FRAUD",
+    "confidence": 0.9,
+    "reason": "The customer is asking whether a received email is a scam because their email is not linked to their Amazon account, which indicates reporting a suspicious or potentially fraudulent contact."
+  },
+  "281159": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is expressing a personal opinion and suggesting a new feature (paid paper bag inclusion service for deliveries sent to a workplace) rather than asking for support with an existing order or account issue."
+  },
+  "2276362": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer has been waiting for their earphones for 2 months and received the wrong color multiple times, which points to a delayed fulfillment and order issue."
+  },
+  "2725020": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The customer is expressing thanks and indicating the issue is done, which falls under casual conversation or praise according to the instructions."
+  },
+  "2840225": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.9,
+    "reason": "The customer states that deliveries for multiple orders were screwed up, which fits the definition of delivery failure."
+  },
+  "2361839": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with the capability of Amazon customer support representatives."
+  },
+  "1618370": {
+    "intent": "REFUND",
+    "confidence": 0.9,
+    "reason": "The customer dropped off a package 15 days ago and is explicitly asking why they have not received their refund yet."
+  },
+  "2303639": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.9,
+    "reason": "The customer is asking for help to find their carrier and track their missing furniture order."
+  },
+  "442789": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.85,
+    "reason": "The customer is expressing explicit dissatisfaction with Amazon customer support and the response they received regarding their pre-ordered book."
+  },
+  "2791903": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is listing a large number of book and ebook titles they purchased or received in a conversational manner without asking a specific actionable support question."
+  },
+  "2378197": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.95,
+    "reason": "The message provides information about the status of an order that is currently out for delivery, matching the delivery tracking intent."
+  },
+  "2548042": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.9,
+    "reason": "The customer is primarily asking where their parcel is and when they are likely to receive it, despite mentioning that a link is not working."
+  },
+  "603159": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is stating that the original delivery date was Friday the 1st of December, implying the package has not arrived as scheduled."
+  },
+  "743262": {
+    "intent": "ORDER_PRODUCT",
+    "confidence": 0.9,
+    "reason": "The customer is asking for a specific book product associated with an order, which fits the order product intent."
+  },
+  "244693": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.85,
+    "reason": "The customer is asking the support to check their registered account and work on the delivery of their item."
+  },
+  "19141": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer is complaining as a Prime member that they cannot get their product quickly enough, which indicates an issue with delivery speed or delay."
+  },
+  "206006": {
+    "intent": "PAYMENT",
+    "confidence": 0.85,
+    "reason": "The customer mentions an email confirmation from their bank account and issues regarding contacting via that method due to a closed account, which relates to payment or account billing details."
+  },
+  "2111015": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer explicitly states they purchased an item 11 business days ago and have not received it yet, which is the primary issue of a delivery delay."
+  },
+  "1336211": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.85,
+    "reason": "The customer is reporting a near-failure or problem with the delivery attempt because the postman was angry and nearly did not deliver the package correctly due to addressing or identification issues."
+  },
+  "425470": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that the order was marked as delivered when they did not receive it, which fits the definition of delivery failure or misdelivery."
+  },
+  "16448": {
+    "intent": "PAYMENT",
+    "confidence": 0.9,
+    "reason": "The customer is asking how to enter a payment code and complete a purchase using an Amazon gift card balance, which is a payment and checkout issue."
+  },
+  "2408721": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.98,
+    "reason": "The customer is expressing extreme dissatisfaction with Amazon customer support and multiple agents failing to resolve their issue, which directly matches the SUPPORT_COMPLAINT intent definition."
+  },
+  "125302": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message is casual conversation and says thanks before going to bed, with no actionable support intent."
+  },
+  "596771": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that they have to wait another 3 days for a product that is overdue and should have arrived by the promised delivery date, while mentioning their Prime membership."
+  },
+  "2602981": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.9,
+    "reason": "The customer is describing a previous delivery issue where the driver waited only 10 seconds and someone received a freebie, which relates to a failed or problematic delivery attempt."
+  },
+  "583542": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting that a purchased charger is not working, which indicates a hardware/device malfunction covered by the TECHNICAL intent."
+  },
+  "2750369": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "The customer is asking about quiz winners, which is not related to any standard Amazon support intent such as orders, deliveries, or returns, and falls under unrelated informational queries."
+  },
+  "534070": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.9,
+    "reason": "The customer is reporting a failed or improper delivery where the package was left in the rain, which falls under delivery failure."
+  },
+  "1510497": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer is complaining that their package hasn't arrived multiple times, focusing primarily on the delayed delivery."
+  },
+  "663823": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.98,
+    "reason": "The customer is expressing explicit dissatisfaction with Amazon customer support and their inability to help resolve the issue."
+  },
+  "2685195": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer is complaining that their delivery is taking three to four days instead of the promised one-day delivery service."
+  },
+  "1095958": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting an accessibility problem with a specific web browser (Firefox 56), which falls under a technical website/application issue."
+  },
+  "1219171": {
+    "intent": "TECHNICAL",
+    "confidence": 0.9,
+    "reason": "The customer is reporting a technical issue with an advertisement on Twitter mentioning a poorly synchronized layer/overlay."
+  },
+  "1338605": {
+    "intent": "REFUND",
+    "confidence": 0.95,
+    "reason": "The customer is asking why their money has not been returned to them, which directly corresponds to a missing refund or refund status."
+  },
+  "2367914": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is inquiring about the whereabouts of their sneakers ('kicks') which were supposed to arrive by now, indicating that the delivery is late or overdue."
+  },
+  "2609240": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer complains about repeated shipment delays over the last few months with Amazon Logistics and states they will not renew their Prime subscription because of this issue."
+  },
+  "2703132": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.85,
+    "reason": "The customer is expressing dissatisfaction and frustration with customer support communication channels because they cannot access chat."
+  },
+  "281954": {
+    "intent": "ORDER_CHANGE",
+    "confidence": 0.95,
+    "reason": "The customer is expressing a negative experience specifically regarding the order cancellation process."
+  },
+  "2830772": {
+    "intent": "OTHER",
+    "confidence": 0.85,
+    "reason": "The customer is providing a conversational response about order fulfillment details without expressing a clear actionable support request like tracking, refund, or return."
+  },
+  "2726815": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer is asking how much time it takes for an order to be delivered."
+  },
+  "1005105": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer states they are eagerly waiting for their product and want action taken, which indicates the delivery has not arrived or is overdue."
+  },
+  "280626": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.85,
+    "reason": "The customer is expressing dissatisfaction with the poor customer service received from the carrier and support channels when trying to resolve an issue."
+  },
+  "2664066": {
+    "intent": "PAYMENT",
+    "confidence": 0.95,
+    "reason": "The customer is asking why they are no longer allowed to pay via direct debit (Bankeinzug) and expresses frustration about payment methods."
+  },
+  "2790466": {
+    "intent": "RETURN",
+    "confidence": 0.9,
+    "reason": "The customer received a damaged or soiled book that cannot be given as a gift, which implies they need to return the item."
+  },
+  "850142": {
+    "intent": "OTHER",
+    "confidence": 0.8,
+    "reason": "The customer message is too brief and lacks sufficient information to determine a clear actionable support intent."
+  },
+  "2255230": {
+    "intent": "PAYMENT",
+    "confidence": 0.85,
+    "reason": "The customer is experiencing a checkout issue stating 'no delivery times available' while attempting to complete an order."
+  },
+  "2524372": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.95,
+    "reason": "The customer is reporting a failed delivery attempt and a misrouted package by the shipping partner."
+  },
+  "2826407": {
+    "intent": "OTHER",
+    "confidence": 1.0,
+    "reason": "The message is casual conversation and does not contain a clear actionable support intent."
+  },
+  "2472509": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 1.0,
+    "reason": "The customer is complaining that their package, which was supposed to be delivered last Friday, has not arrived yet."
+  },
+  "2690663": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.85,
+    "reason": "The customer is expressing primary dissatisfaction with the customer service ('customer service is useless') after a delivery incident."
+  },
+  "795721": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.85,
+    "reason": "The customer is complaining that their order has not arrived and they are calling to find out where the order is, indicating an overdue or delayed delivery."
+  },
+  "1180560": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining that their order was destroyed or ruined by the shipping department during delivery."
+  },
+  "729221": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting that their account is inaccessible, which is a technical problem with accessing the platform/account."
+  },
+  "1786560": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.95,
+    "reason": "The customer is reporting that the package was either delivered to the wrong address or marked as delivered falsely, which fits the definition of delivery failure."
+  },
+  "738378": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer states that the Philips Epilator was ordered over a week ago, the delivery date passed on 10/10, and they are still waiting for it."
+  },
+  "446780": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.9,
+    "reason": "The customer is complaining that someone took their package, indicating a misdelivery, theft, or failed delivery attempt."
+  },
+  "2913233": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that their Amazon Prime orders shipped via a specific carrier never arrive, indicating a persistent issue with delivery delays or failure to deliver."
+  },
+  "30026": {
+    "intent": "PRIME",
+    "confidence": 0.95,
+    "reason": "The customer is asking an informational question about Prime Video services and subscription billing channels in Brazilian Real."
+  },
+  "67567": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.9,
+    "reason": "The customer is concerned about conflicting delivery dates where the app shows today but support says tomorrow, indicating an expected or potential delay."
+  },
+  "737158": {
+    "intent": "TECHNICAL",
+    "confidence": 0.95,
+    "reason": "The customer is reporting an inability to access a specific link, which is a website or application problem classified as a technical issue."
+  },
+  "656158": {
+    "intent": "DELIVERY_FAILURE",
+    "confidence": 0.95,
+    "reason": "The customer is explicitly stating that their parcel is in the wrong place and asking how it can be delivered to the incorrect location, which fits the definition of DELIVERY_FAILURE."
+  },
+  "2137909": {
+    "intent": "DELIVERY_TRACKING",
+    "confidence": 0.85,
+    "reason": "The customer is tweeting about receiving a delivery notification that their shipment arrived at a shop, which pertains to status and tracking information."
+  },
+  "1145926": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "The customer message is conversational and lacks a clear actionable support intent."
+  },
+  "1774583": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer is expressing dissatisfaction with a previous support interaction where they were not called or helped as expected."
+  },
+  "2954320": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is reporting that their package delivery has been rescheduled and is expressing concern that it was supposed to arrive by 8pm, which fits the definition of a delayed delivery."
+  },
+  "2586299": {
+    "intent": "SUPPORT_COMPLAINT",
+    "confidence": 0.95,
+    "reason": "The customer expresses primary dissatisfaction with Amazon customer support's inability to resolve or explain the recurring issue, stating that support has no clue and expects the customer to solve it."
+  },
+  "514639": {
+    "intent": "DELIVERY_DELAY",
+    "confidence": 0.95,
+    "reason": "The customer is complaining that their package has not arrived yet despite the promised delivery time for today."
+  }
+}
