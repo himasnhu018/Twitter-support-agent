@@ -12,3 +12,8 @@ tqdm
 pytest
 streamlit
 google-genai
+
+torch
+torchvision
+transformers
+pyarrow
