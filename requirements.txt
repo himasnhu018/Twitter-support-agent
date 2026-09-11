@@ -10,4 +10,5 @@ pydantic
 python-dotenv
 tqdm
 pytest
+streamlit
 google-genai
